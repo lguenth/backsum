@@ -1,6 +1,6 @@
-Estimation of Conditional Probabilities With Decision Trees and an Application to Fine-Grained POS Tagging
-We present a HMM part-of-speech tagging method which is particularly suited
-for POS tagsets with a large number of fine-grained tags.
-It is based on three ideas: (1) splitting of the POS tags into attribute vectors and decomposition of the contextual POS probabilities of the HMM into a product of attribute probabilities, (2) estimation of the contextual probabilities with decision trees, and (3) use of high-order HMMs.
-In experiments on German and Czech data, our tagger outperformed state-of-the-art POS taggers.
-Our fine-grained tag set contains approximately 800 tags.
+In this paper, Schmid and Laws present a  RFTagger or Hidden-Markov-Model (HMM) part-of-speech tagger  using German and Czech corpora.HMM tagging decomposes the POS tags into a set of simple attributes, and uses decision tree to estimate the probability of each attribute.
+Decision tree assigns classes to objects which are represented as attribute vectors.
+Their tagger applies a beam-search strategy to increase the speed and uses dot to separate the attributes.
+It also applies pre-pruning citeria.
+Their tagger is fast and can be successfully applied to a wide range of languages and training corpora.
+Their tagger is highly accurate in comparison to TnTagger and SVMTool.
