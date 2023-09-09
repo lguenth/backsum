@@ -1,0 +1,50 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "This paper conducted research in the area of automatic paraphrase discovery.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "The authors believe automatic paraphrase discovery is an important component for building a fully automatic information extraction system.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "They proposed an unsupervised method to discover paraphrases from a large untagged corpus.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "They focused on phrases which two Named Entities, and proceed in two stages.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "This topic has been getting more attention, driven by the needs of various NLP applications.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "Most IE researchers have been creating paraphrase knowledge by hand and specific tasks.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 7,
+        "paper_sid": null,
+        "summary_text": "The authors cluster NE instance pairs based on the words in the context using bag-of-words methods.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 8,
+        "paper_sid": null,
+        "summary_text": "In order to create good-sized vectors for similarity calculation, they had to set a high frequency threshold.\n",
+        "match": ""
+    }
+]

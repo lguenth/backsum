@@ -1,0 +1,26 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "The strategic lazy incremental copy graph (SLING) unification method combines two incremental copy graph unification method - the lazy incremental copy graph (LING) unification and the strategic incremental copy graph (SING) unification method.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "The LING unification method achieves structure sharing which avoids memory wastage and increases the portion of token identical substructures of FSs.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "The SING unification method introduces the feature unification strategy and lists the factors on which itâs efficiency depends.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "The combined method increases the total efficiency of FS unification-based natural language processing systems.\n",
+        "match": ""
+    }
+]

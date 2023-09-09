@@ -1,0 +1,38 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "In this paper the author aimed at reporting, adapting a lexicalized, probabilistic context-free parser to information extraction and evaluate the new technique on MUC-7 template elements and template relations.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "The author is able to integrate both syntactic and semantic information into the parsing process, thus avoiding potential errors of syntax first followed by semantics.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "Their parsing algorithm, trained on the UPenn TREEBANK, was run on the New York Times source to create unsupervised syntactic training which was constrained to be consistent with semantic annotation.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "They were able to specify relatively simple guidelines that students with no training in computational linguistics could annotate.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "The semantic training corpus was produced by students according to a simple set of guidelines.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "This simple semantic annotation was the only source of task knowledge used to configure the model.\n",
+        "match": ""
+    }
+]

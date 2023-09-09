@@ -1,0 +1,50 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "This paper talks about Polylingual Topic Models.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "The main keywords annotated in this paper are Polylingual Topic Model, languages and parallel documents.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "This paper introduces a Polylingual topic model that discovers topics aligned across multiple languages.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "The Polylingual topic model (PLTM) is an extension of latent Dirichlet allocation (LDA) for modeling Polylingual document tuples.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "First, we explore whether comparable document tuples support the alignment of fine-grained topics, as demonstrated earlier using parallel documents.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "This property is useful for building machine translation systems as well as for human readers.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 7,
+        "paper_sid": null,
+        "summary_text": "Second, because comparable texts may not use exactly the same topics, it becomes crucially important to be able to characterize differences in topic prevalence at the document level and at the language-wide level.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 8,
+        "paper_sid": null,
+        "summary_text": "When applied to comparable document collections such as Wikipedia, PLTM supports data-driven analysis of differences and similarities across all languages for readers who understand any one language.\n",
+        "match": ""
+    }
+]

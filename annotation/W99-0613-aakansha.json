@@ -1,0 +1,32 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "This paper discusses the use of unlabeled examples for the problem of named entity classification.The task is to learn a function from an in-\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "put string (proper name) to its type.The approach uses both spelling and contextual rules.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "A spelling rule might be a simple look-up for the string or a rule that looks at words within a string.They introduced a new algorithm for learning from unlabeled examples, which they called DL-\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "Co'Train (DL stands for decision list, the term Cot r a i n is taken from (Blum and Mitchell 98)).It also presents a boosting-like framework that builds on ideas from (Blum and Mitchell 98).\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "The method uses a \"soft\" measure of the agreement between two classifiers as an objective function;it describes an algorithm which directly optimizes this function.\n",
+        "match": ""
+    }
+]

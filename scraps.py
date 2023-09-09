@@ -18,3 +18,17 @@ test = {
     "avg_sentence_length_char": avg_sentence_length_char,
     "avg_sentence_length_word": avg_sentence_length_word,
 }
+
+# TODO Check what the longest sentence is
+def preprocess(data):
+    from transformers import AutoTokenizer
+    tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
+    example = data["raw_summary"][0]
+    encoded_source = tokenizer(example)
+
+    with tokenizer.as_target_tokenizer():
+        labels = tokenizer(data["raw_paper"], max_length=512, truncation=True)
+    
+    model_inputs["labels"] = labels["input_ids"]
+
+    return example, encoded_source

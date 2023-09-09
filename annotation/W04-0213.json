@@ -1,0 +1,80 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "This paper discusses the Potsdam Commentary Corpus, a corpus of german assembeled by potsdam university.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "The corpus was annoted with different linguitic information.the Potsdam Commentary Corpus or PCC consists of\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "170 commentaries from M¨arkische Allgemeine Zeitung, a German regional daily.This corpus includes 173 texts on politics from the on-line newspaper\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "Märkische Allgemeine Zeitung.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "It contains 32,962 words and 2,195 sentences.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "It is annotated with several data: morphology, syntax, rhetorical\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 7,
+        "paper_sid": null,
+        "summary_text": "structure, connectors, correference and informative structure.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 8,
+        "paper_sid": null,
+        "summary_text": "Nevertheless, only a part of this corpus (10 texts), which the authors name \"core corpus\",\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 9,
+        "paper_sid": null,
+        "summary_text": "is annotated with all this information.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 10,
+        "paper_sid": null,
+        "summary_text": "The texts were annotated with the RSTtool.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 11,
+        "paper_sid": null,
+        "summary_text": "This corpus has several advantages: it is annotated at different\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 12,
+        "paper_sid": null,
+        "summary_text": "levels.all the texts were annotated by two people.it is free for research purposes.The disadvantages are: the genre and domain of all the texts are the same, the\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 13,
+        "paper_sid": null,
+        "summary_text": "methodology of annotation was quite intuitive and the inter-annotator agreement is not given.\n",
+        "match": ""
+    }
+]

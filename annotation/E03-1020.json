@@ -1,0 +1,44 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "This paper describes an algorithm which automatically discovers word senses from free text and maps them to the appropriate entries of existing dictionary or, taxonomies.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "It is based on a graph model representing words and relationships between them.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "A word sense algorithm is outlined which bypasses the problem of parameter turning.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "The authors describe the experiment that examines the performance of their algorithm on a set of words with varying degree of ambiguity.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "They also present a sample of the results.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "The algorithm recognises and resolves ambiguity.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 7,
+        "paper_sid": null,
+        "summary_text": "It gives rise to an automatic, unsupervised word sense disambiguation algorithm.\n",
+        "match": ""
+    }
+]

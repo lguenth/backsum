@@ -1,0 +1,38 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "Jeff Mitchell and Mirella Lapata in their paper 'Vector-based Models of Semantic Composition' present models of semantic\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "composition that are empirically grounded and can represent similarity relations.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "They present a general framework for vector-based composition consider both additive and multiplicative models of vector combination and assess their performance on a sentence similarity rating experiment.They propose a framework to represent the meaning of the combination u+v as a function f operating on four components:p = f (u, v, R, K).R is the relation holding between u and v, and K additional knowledge.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "Their results show that the multiplicative models are superior to additive when compared to human judgement.The multiplicative model yields a better fit with the experimental data, Ï = 0.17.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "The combined model is best overall with Ï = 0.19.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "However,the difference between the two models is not statistically significant.In order to understand vector composition in deep more research in the area is required.\n",
+        "match": ""
+    }
+]

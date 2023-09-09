@@ -1,0 +1,146 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "The paper aims at describing refinements that are currently being investigated in a model for part-ofspeech\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "assignment to words in unrestricted text.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "The model has the advantage that a pre-tagged\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "training corpus is not required.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "The determination of part-of-speech categories for words is an\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "important problem in language modelling, because both the syntactic and semantic roles of words\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 7,
+        "paper_sid": null,
+        "summary_text": "depend on their part-of-speech category.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 8,
+        "paper_sid": null,
+        "summary_text": "The statistical methods can be described in terms of Markov\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 9,
+        "paper_sid": null,
+        "summary_text": "models.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 10,
+        "paper_sid": null,
+        "summary_text": "States in a model represent categories.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 11,
+        "paper_sid": null,
+        "summary_text": "In Hidden Markov model, the Baum-Welch algorithm\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 12,
+        "paper_sid": null,
+        "summary_text": "can be used to estimate the model parameters.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 13,
+        "paper_sid": null,
+        "summary_text": "This has the great advantage of eliminating the pretagged\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 14,
+        "paper_sid": null,
+        "summary_text": "corpus.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 15,
+        "paper_sid": null,
+        "summary_text": "It minimizes the resources required, facilitates experimentation with different word\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 16,
+        "paper_sid": null,
+        "summary_text": "categories, and is easily adapted for use with other languages.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 17,
+        "paper_sid": null,
+        "summary_text": "One aim of the work is to investigate\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 18,
+        "paper_sid": null,
+        "summary_text": "the quality and performance of models with minimal parameter descriptions.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 19,
+        "paper_sid": null,
+        "summary_text": "Many Lisp-specific word\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 20,
+        "paper_sid": null,
+        "summary_text": "categories were created for frequently occurring Lisp symbols in an attempt to reduce bias in the\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 21,
+        "paper_sid": null,
+        "summary_text": "estimation.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 22,
+        "paper_sid": null,
+        "summary_text": "A stochastic method for assigning part-of-speech categories to unrestricted English text\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 23,
+        "paper_sid": null,
+        "summary_text": "has been described.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 24,
+        "paper_sid": null,
+        "summary_text": "It minimizes the resources required for high performance automatic tagging.\n",
+        "match": ""
+    }
+]

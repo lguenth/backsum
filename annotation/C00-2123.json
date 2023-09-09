@@ -1,0 +1,56 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "The authors in this paper describe a search procedure for statistical machine translation (MT) based on dynamic programming (DP).\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "From a DP-based solution to the traveling salesman problem, they present a novel technique to restrict the possible word reordering between source and target language in order to achieve an eÃcient search algorithm.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "A beam search concept is applied as in speech recognition.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "There is no global pruning.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "An extended lexicon model is defined, and its likelihood is compared to a baseline lexicon model, which takes only single-word dependencies into account.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "In order to handle the necessary word reordering as an optimization problem within the dynamic programming approach, they describe a solution to the traveling salesman problem (TSP) which is based on dynamic programming.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 7,
+        "paper_sid": null,
+        "summary_text": "The approach assumes that the word reordering is restricted to a few positions in the source sentence.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 8,
+        "paper_sid": null,
+        "summary_text": "The approach has been successfully tested on the 8 000-word Verbmobil task.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 9,
+        "paper_sid": null,
+        "summary_text": "The experimental tests are carried out on the Verbmobil task which is a limited-domain spoken-language task.\n",
+        "match": ""
+    }
+]

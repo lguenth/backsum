@@ -1,0 +1,116 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "The authorsâ aim is to consider the problem of question focused sentence retrieval from complex news\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "articles describing multi-event stories published over time.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "Annotators generated a list of questions\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "central to understanding each story in our corpus.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "Recent work has motivated the need for systems\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "that support âInformation Synthesisâ tasks, in which a user seeks a global understanding of a topic or\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 7,
+        "paper_sid": null,
+        "summary_text": "story.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 8,
+        "paper_sid": null,
+        "summary_text": "The specific problem they consider differs from the classic task of PR for a Q&A system in\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 9,
+        "paper_sid": null,
+        "summary_text": "interesting ways, due to the time-sensitive nature of the stories in our corpus.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 10,
+        "paper_sid": null,
+        "summary_text": "They aim to develop a\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 11,
+        "paper_sid": null,
+        "summary_text": "method for sentence retrieval that goes beyond finding sentences that are similar to a single query.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 12,
+        "paper_sid": null,
+        "summary_text": "To\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 13,
+        "paper_sid": null,
+        "summary_text": "this end, they propose to use a stochastic, graph-based method.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 14,
+        "paper_sid": null,
+        "summary_text": "To evaluate their sentence retrieval\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 15,
+        "paper_sid": null,
+        "summary_text": "mechanism, they produced extract files, which contain a list of sentence deemed to be relevant to the\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 16,
+        "paper_sid": null,
+        "summary_text": "question, for the system and from human judgment.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 17,
+        "paper_sid": null,
+        "summary_text": "During the task, they have shown that over a\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 18,
+        "paper_sid": null,
+        "summary_text": "large set of unaltered questions written by their annotators, LexRank can, on average, outperform the\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 19,
+        "paper_sid": null,
+        "summary_text": "baseline system, particularly in terms of TRDR scores.\n",
+        "match": ""
+    }
+]

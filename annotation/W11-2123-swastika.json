@@ -1,0 +1,50 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": " The authors presented, in this paper, KenLM, a library that implemented two data structures for efficient language model queries, reducing both time and costs.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "The structure used linear probing hash tables and was designed for speed.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "The PROBING model was 2.4 times as fast as the fastest alternative, SRILM, and used less memory too.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "The TRIE model used less memory than the smallest lossless alternative and was still faster than SRILM.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "These performance gained transfer to improved system run time performance.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "Though they focused on Moses, their code was the best lossless option with cdec and Joshua.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 7,
+        "paper_sid": null,
+        "summary_text": "They attained these results using several optimizations: hashing, custom look up tables, bit-level packing, and state for left-to-right query patterns.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 8,
+        "paper_sid": null,
+        "summary_text": "The code was open source, had minimal dependencies, and offered both C++ and Java interfaces for integration.\n",
+        "match": ""
+    }
+]

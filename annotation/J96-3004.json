@@ -1,0 +1,32 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "In this paper the authors present a stochastic finite-state model for segmenting Chinese text into words.The model incorporates various recent techniques for incorporating and manipulating linguistic knowledge using finite-state transducers.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "It also incorporates the Good-Turing methodin estimating the likelihoods of previously unseen constructions, including morphological derivatives and personal names.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "they evaluate various specific aspects of the segmentation, as well as the overall segmentation performance.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "The evaluation compares the performance of the system with that of several human judges and inter-human agreement on a single correct way to segment a text.they showed that the average agreement among the human judges is .76, and the average agreement between ST(system) and the humans is .75, or about 99% of the interhuman agreement.This architecture provides a uniform framework in which it is easy to incorporate not only listed dictionary entries but also morphological derivatives, and models for personal names and foreign names in transliteration.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "Other kinds of productive word classes, such as company names, abbreviations,and place names can easily be handled given appropriate models.\n",
+        "match": ""
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "In this paper the aim of the model is detecting and predicting dialogue acts based on lexical,\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "collocation, and prosodic cues, as well as on the discourse coherence of the dialogue act sequence.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "The first level of analysis involves the identification of dialogue acts.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "DA represents the meaning of\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "an utterance at the level of illocutionary force.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "The DAs tagset classifies utterances according to a\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 7,
+        "paper_sid": null,
+        "summary_text": "combination of pragmatic, semantic, and syntactic criteria.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 8,
+        "paper_sid": null,
+        "summary_text": "Another important role of DA information\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 9,
+        "paper_sid": null,
+        "summary_text": "could be feedback to lower-level processing.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 10,
+        "paper_sid": null,
+        "summary_text": "The goal of this article is twofold: On the one hand, we\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 11,
+        "paper_sid": null,
+        "summary_text": "aim to present a comprehensive framework for modelling and automatic classification of DAs,\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 12,
+        "paper_sid": null,
+        "summary_text": "founded on well-known statistical methods.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 13,
+        "paper_sid": null,
+        "summary_text": "Second, we present results obtained with this approach on\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 14,
+        "paper_sid": null,
+        "summary_text": "a large, widely available corpus of spontaneous conversational speech.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 15,
+        "paper_sid": null,
+        "summary_text": "The domain we chose to\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 16,
+        "paper_sid": null,
+        "summary_text": "model is the Switchboard corpus of human-human conversational telephone speech distributed by the\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 17,
+        "paper_sid": null,
+        "summary_text": "Linguistic Data Consortium.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 18,
+        "paper_sid": null,
+        "summary_text": "Automatic segmentation of spontaneous speech is an open research\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 19,
+        "paper_sid": null,
+        "summary_text": "problem in its own right.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 20,
+        "paper_sid": null,
+        "summary_text": "Finally, the author developed a principled way of incorporating DA\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 21,
+        "paper_sid": null,
+        "summary_text": "modelling into the probability model of a continuous speech recognizer, by constraining word\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 22,
+        "paper_sid": null,
+        "summary_text": "hypotheses using the discourse context.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 23,
+        "paper_sid": null,
+        "summary_text": "However, the approach gives only a small reduction in word\r\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 24,
+        "paper_sid": null,
+        "summary_text": "error on our corpus, which can be attributed to a preponderance of a single dialogue act type.\n",
+        "match": ""
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "This paper aims at proposing a cascaded linear model for joint Chinese word segmentation and part-of- speech tagging.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "With a character-based perceptron as the core, combined with realvalued features such as language models, the cascaded model is able to efficiently utilize knowledge sources that are inconvenient to incorporate into the perceptron directly.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "Word segmentation and part-of-speech (POS) tagging are important tasks in computer processing of Chinese and other Asian languages.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "However, as such features are generated dynamically during the decoding procedure, two limitations arise: on the one hand, the amount of parameters increases rapidly, which is apt to overfit on training corpus; on the other hand, exact inference by dynamic programming is intractable because the current predication relies on the results of prior predications.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "To cope with this problem, we propose a cascaded linear model inspired by the log-linear model widely used in statistical machine translation to incorporate different kinds of knowledge sources.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "In addition, all knowledge sources we used in the core perceptron and the outside-layer linear model come from the training corpus, whereas many open knowledge sources can be used to improve performance.\n",
+        "match": ""
+    }
+]

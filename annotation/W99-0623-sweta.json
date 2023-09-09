@@ -1,0 +1,56 @@
+[
+    {
+        "summary_sid": 1,
+        "paper_sid": null,
+        "summary_text": "In this paper the author aims at three state-of-the-art statistical parsers which are combined to produce more accurate parses, as well as new bounds on achievable Treebank parsing accuracy.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 2,
+        "paper_sid": null,
+        "summary_text": "Two general approaches are presented and two combination techniques are described for each approach.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 3,
+        "paper_sid": null,
+        "summary_text": "The natural language processing community is in the strong position of having many available approaches to solve some of its most fundamental problems.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 4,
+        "paper_sid": null,
+        "summary_text": "Recently, combination techniques have been investigated for part of speech tagging with positive results.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 5,
+        "paper_sid": null,
+        "summary_text": "In both cases the investigators were able to achieve significant improvements over the previous best tagging results.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 6,
+        "paper_sid": null,
+        "summary_text": "Similar advances have been made in machine translation, speech recognition and named entity recognition.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 7,
+        "paper_sid": null,
+        "summary_text": "They have presented two general approaches to studying parser combination: parser switching and parse hybridization.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 8,
+        "paper_sid": null,
+        "summary_text": "Combining multiple highly-accurate independent parsers yields promising results.\n",
+        "match": ""
+    },
+    {
+        "summary_sid": 9,
+        "paper_sid": null,
+        "summary_text": "The author plans to explore more powerful techniques for exploiting the diversity of parsing methods.\n",
+        "match": ""
+    }
+]
