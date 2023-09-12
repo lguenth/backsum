@@ -1,56 +1,58 @@
 [
     {
-        "summary_sid": 1,
-        "paper_sid": null,
-        "summary_text": "Foster et all describe a new approach to SMT adaptation that weights out-of-domain phrase pairs according to their relevance to the target domain, determined by both how similar to it they appear to be, and whether they belong to general language or not.\n",
-        "match": ""
+        "source_id": 1,
+        "target_id": 1,
+        "summary_text": "Foster et all describe a new approach to SMT adaptation that weights out-of-domain phrase pairs according to their relevance to the target domain, determined by both how similar to it they appear to be, and whether they belong to general language or not.",
+        "paper_text": "",
+        "match": "extractive"
     },
     {
-        "summary_sid": 2,
-        "paper_sid": null,
-        "summary_text": "They extended previous work on discriminative weighting by using a finer granularity, focusing on the properties of instances rather than corpus components, and used simpler training procedure.\n",
-        "match": ""
+        "source_id": 2,
+        "target_id": 2,
+        "summary_text": "They extended previous work on discriminative weighting by using a finer granularity, focusing on the properties of instances rather than corpus components, and used simpler training procedure.",
+        "paper_text": "",
+        "match": "extractive"
     },
     {
-        "summary_sid": 3,
-        "paper_sid": null,
-        "summary_text": "They incorporated instance-weighting into a mixture-model framework, and found that it yielded consistent improvements over a wide range of baselines.\n",
-        "match": ""
+        "source_id": 3,
+        "target_id": 3,
+        "summary_text": "They incorporated instance-weighting into a mixture-model framework, and found that it yielded consistent improvements over a wide range of baselines.",
+        "paper_text": "",
+        "match": "extractive"
     },
     {
-        "summary_sid": 4,
-        "paper_sid": null,
-        "summary_text": "In this paper, the authors proposed an approach for instance-weighting phrase pairs in an out-of-domain corpus in order to improve in-domain performance.\n",
-        "match": ""
+        "source_id": 4,
+        "target_id": 144,
+        "summary_text": "In this paper, the authors proposed an approach for instance-weighting phrase pairs in an out-of-domain corpus in order to improve in-domain performance.",
+        "paper_text": "",
+        "match": "extractive"
     },
     {
-        "summary_sid": 5,
-        "paper_sid": null,
-        "summary_text": "Each out-of-domain phrase pair was characterized by a set of simple features intended to reflect how useful it would be.\n",
-        "match": ""
+        "source_id": 5,
+        "target_id": 145,
+        "summary_text": "Each out-of-domain phrase pair was characterized by a set of simple features intended to reflect how useful it would be.",
+        "paper_text": "",
+        "match": "extractive"
     },
     {
-        "summary_sid": 6,
-        "paper_sid": null,
-        "summary_text": "The features were weighted within a logistic model that gave an overall weight that was applied to the phrase pair and MAP-smoothed relative-frequency estimates which were combined linearly with relative-frequency estimates from an in-domain phrase table.\n",
-        "match": ""
+        "source_id": 6,
+        "target_id": 146,
+        "summary_text": "The features were weighted within a logistic model that gave an overall weight that was applied to the phrase pair and MAP-smoothed relative-frequency estimates which were combined linearly with relative-frequency estimates from an in-domain phrase table.",
+        "paper_text": "",
+        "match": "extractive"
     },
     {
-        "summary_sid": 7,
-        "paper_sid": null,
-        "summary_text": "Instance-weighting approach improved over a wide range of baselines, giving gains of over 2 BLEU points over the best non-adapted baseline.\n",
-        "match": ""
+        "source_id": 7,
+        "target_id": 150,
+        "summary_text": "Instance-weighting approach improved over a wide range of baselines, giving gains of over 2 BLEU points over the best non-adapted baseline.",
+        "paper_text": "",
+        "match": "extractive"
     },
     {
-        "summary_sid": 8,
-        "paper_sid": null,
-        "summary_text": "They plan on extending instance-weighting to other standard SMT components and \r\n",
-        "match": ""
-    },
-    {
-        "summary_sid": 9,
-        "paper_sid": null,
-        "summary_text": "capture the degree of generality of phrase pairs.\n",
+        "source_id": 8,
+        "target_id": 151,
+        "summary_text": "They plan on extending instance-weighting to other standard SMT components and capture the degree of generality of phrase pairs.",
+        "paper_text": "",
         "match": ""
     }
 ]

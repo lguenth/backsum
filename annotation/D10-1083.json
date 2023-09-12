@@ -1,62 +1,72 @@
 [
     {
-        "summary_sid": 1,
-        "paper_sid": null,
-        "summary_text": "In this paper, the authors are of the opinion that the sequence models-based approaches usually treat token-level tag assignment as the primary latent variable.\n",
-        "match": ""
+        "source_id": 1,
+        "target_id": 14,
+        "summary_text": "In this paper, the authors are of the opinion that the sequence models-based approaches usually treat token-level tag assignment as the primary latent variable.",
+        "paper_text": "",
+        "match": "abstracted"
     },
     {
-        "summary_sid": 2,
-        "paper_sid": null,
-        "summary_text": "However, these approaches are ill-equipped to directly represent type-based constraints such as sparsity.\n",
-        "match": ""
+        "source_id": 2,
+        "target_id": 16,
+        "summary_text": "However, these approaches are ill-equipped to directly represent type-based constraints such as sparsity.",
+        "paper_text": "",
+        "match": "extracted"
     },
     {
-        "summary_sid": 3,
-        "paper_sid": null,
-        "summary_text": "In this work, they take a more direct approach and treat a word type and its allowed POS tags as a primary element of the model.\n",
-        "match": ""
+        "source_id": 3,
+        "target_id": 19,
+        "summary_text": "In this work, they take a more direct approach and treat a word type and its allowed POS tags as a primary element of the model.",
+        "paper_text": "",
+        "match": "extracted"
     },
     {
-        "summary_sid": 4,
-        "paper_sid": null,
-        "summary_text": "Their work is closely related to recent approaches that incorporate the sparsity constraint into the POS induction process.\n",
-        "match": ""
+        "source_id": 4,
+        "target_id": 34,
+        "summary_text": "Their work is closely related to recent approaches that incorporate the sparsity constraint into the POS induction process.",
+        "paper_text": "",
+        "match": "extracted"
     },
     {
-        "summary_sid": 5,
-        "paper_sid": null,
-        "summary_text": "There are clustering approaches that assign a single POS tag to each word type.\n",
-        "match": ""
+        "source_id": 5,
+        "target_id": 37,
+        "summary_text": "There are clustering approaches that assign a single POS tag to each word type.",
+        "paper_text": "",
+        "match": "extracted"
     },
     {
-        "summary_sid": 6,
-        "paper_sid": null,
-        "summary_text": "These clusters are computed using an SVD variant without relying on transitional structure.\n",
-        "match": ""
+        "source_id": 6,
+        "target_id": 38,
+        "summary_text": "These clusters are computed using an SVD variant without relying on transitional structure.",
+        "paper_text": "",
+        "match": "extracted"
     },
     {
-        "summary_sid": 7,
-        "paper_sid": null,
-        "summary_text": "The departure from the traditional token-based tagging approach allow them to explicitly capture type-level distributional properties of valid POS tag assignments as part of the model.\n",
-        "match": ""
+        "source_id": 7,
+        "target_id": 237,
+        "summary_text": "The departure from the traditional token-based tagging approach allow them to explicitly capture type-level distributional properties of valid POS tag assignments as part of the model.",
+        "paper_text": "",
+        "match": "extracted"
     },
     {
-        "summary_sid": 8,
-        "paper_sid": null,
-        "summary_text": "The resulting model is compact, efficiently learnable and linguistically expressive.\n",
-        "match": ""
+        "source_id": 8,
+        "target_id": 238,
+        "summary_text": "The resulting model is compact, efficiently learnable and linguistically expressive.",
+        "paper_text": "",
+        "match": "extracted"
     },
     {
-        "summary_sid": 9,
-        "paper_sid": null,
-        "summary_text": "Their empirical results demonstrate that the type-based tagger rivals state-of-the-art tag-level taggers which employ more sophisticated learning mechanisms to exploit similar constraints.\n",
-        "match": ""
+        "source_id": 9,
+        "target_id": 239,
+        "summary_text": "Their empirical results demonstrate that the type-based tagger rivals state-of-the-art tag-level taggers which employ more sophisticated learning mechanisms to exploit similar constraints.",
+        "paper_text": "",
+        "match": "extracted"
     },
     {
-        "summary_sid": 10,
-        "paper_sid": null,
-        "summary_text": "This assumption, however, is not inherent to type-based tagging models.\n",
-        "match": ""
+        "source_id": 10,
+        "target_id": 241,
+        "summary_text": "This assumption, however, is not inherent to type-based tagging models.",
+        "paper_text": "",
+        "match": "extracted"
     }
 ]

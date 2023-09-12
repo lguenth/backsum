@@ -1,50 +1,58 @@
 [
     {
-        "summary_sid": 1,
-        "paper_sid": null,
-        "summary_text": "The author aims at describing an annotation scheme and a tool developed for creating linguistically annotated corpora for non-configurational languages.\n",
+        "source_id": 1,
+        "target_id": null,
+        "summary_text": "The author aims at describing an annotation scheme and a tool developed for creating linguistically annotated corpora for non-configurational languages.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 2,
-        "paper_sid": null,
-        "summary_text": "It also aims at providing syntactically annotated corpora ('treebanks') for stochastic grammar induction.\n",
+        "source_id": 2,
+        "target_id": null,
+        "summary_text": "It also aims at providing syntactically annotated corpora ('treebanks') for stochastic grammar induction.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 3,
-        "paper_sid": null,
-        "summary_text": "In particular, they focus on several methodological issues concerning the annotation of non-configurational languages.\n",
+        "source_id": 3,
+        "target_id": null,
+        "summary_text": "In particular, they focus on several methodological issues concerning the annotation of non-configurational languages.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 4,
-        "paper_sid": null,
-        "summary_text": "They will closely coordinate the further development of the corpus with the annotation work in Verbmobil and with other German efforts in corpus annotation.\n",
+        "source_id": 4,
+        "target_id": null,
+        "summary_text": "They will closely coordinate the further development of the corpus with the annotation work in Verbmobil and with other German efforts in corpus annotation.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 5,
-        "paper_sid": null,
-        "summary_text": "Since the combinatorics of syntactic constructions creates a demand for very large corpora, efficiency of annotation is an important criterion for the success of the developed methodology and tools.\n",
+        "source_id": 5,
+        "target_id": null,
+        "summary_text": "Since the combinatorics of syntactic constructions creates a demand for very large corpora, efficiency of annotation is an important criterion for the success of the developed methodology and tools.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 6,
-        "paper_sid": null,
-        "summary_text": "Their annotation tool supplies efficient manipulation and immediate visualization of argument structures.\n",
+        "source_id": 6,
+        "target_id": null,
+        "summary_text": "Their annotation tool supplies efficient manipulation and immediate visualization of argument structures.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 7,
-        "paper_sid": null,
-        "summary_text": "Partial automation included it, the current version significantly reduces the manual effort.\n",
+        "source_id": 7,
+        "target_id": null,
+        "summary_text": "Partial automation included it, the current version significantly reduces the manual effort.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 8,
-        "paper_sid": null,
-        "summary_text": "Its extension is subject to further investigations.\n",
+        "source_id": 8,
+        "target_id": null,
+        "summary_text": "Its extension is subject to further investigations.",
+        "paper_text": "",
         "match": ""
     }
 ]

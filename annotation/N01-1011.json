@@ -1,122 +1,142 @@
 [
     {
-        "summary_sid": 1,
-        "paper_sid": null,
-        "summary_text": "This paper presents a corpus-based approach to\r\n",
+        "source_id": 1,
+        "target_id": null,
+        "summary_text": "This paper presents a corpus-based approach to",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 2,
-        "paper_sid": null,
-        "summary_text": "word sense disambiguation where a decision tree assigns\r\n",
+        "source_id": 2,
+        "target_id": null,
+        "summary_text": "word sense disambiguation where a decision tree assigns",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 3,
-        "paper_sid": null,
-        "summary_text": "a sense to an ambiguous word based on the\r\n",
+        "source_id": 3,
+        "target_id": null,
+        "summary_text": "a sense to an ambiguous word based on the",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 4,
-        "paper_sid": null,
-        "summary_text": "bigrams that occur nearby.for this purpose the\r\n",
+        "source_id": 4,
+        "target_id": null,
+        "summary_text": "bigrams that occur nearby.for this purpose the",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 5,
-        "paper_sid": null,
-        "summary_text": "sense inventory of word sense has already been determined.\n",
+        "source_id": 5,
+        "target_id": null,
+        "summary_text": "sense inventory of word sense has already been determined.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 6,
-        "paper_sid": null,
-        "summary_text": "This paper describes an approach where a deci-\r\n",
+        "source_id": 6,
+        "target_id": null,
+        "summary_text": "This paper describes an approach where a deci-",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 7,
-        "paper_sid": null,
-        "summary_text": "sion tree is learned from some number of sentences\r\n",
+        "source_id": 7,
+        "target_id": null,
+        "summary_text": "sion tree is learned from some number of sentences",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 8,
-        "paper_sid": null,
-        "summary_text": "where each instance of an ambiguous word has been\r\n",
+        "source_id": 8,
+        "target_id": null,
+        "summary_text": "where each instance of an ambiguous word has been",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 9,
-        "paper_sid": null,
-        "summary_text": "manually annotated with a sense-tag that denotes\r\n",
+        "source_id": 9,
+        "target_id": null,
+        "summary_text": "manually annotated with a sense-tag that denotes",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 10,
-        "paper_sid": null,
-        "summary_text": "the most appropriate sense for that context and for Building a Feature Set of Bigrams;\r\n",
+        "source_id": 10,
+        "target_id": null,
+        "summary_text": "the most appropriate sense for that context and for Building a Feature Set of Bigrams;",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 11,
-        "paper_sid": null,
-        "summary_text": "two alternatives, the power divergence family\r\n",
+        "source_id": 11,
+        "target_id": null,
+        "summary_text": "two alternatives, the power divergence family",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 12,
-        "paper_sid": null,
-        "summary_text": "and the Dice Coefficient were explored.\n",
+        "source_id": 12,
+        "target_id": null,
+        "summary_text": "and the Dice Coefficient were explored.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 13,
-        "paper_sid": null,
-        "summary_text": "this study utilizes the training and test\r\n",
+        "source_id": 13,
+        "target_id": null,
+        "summary_text": "this study utilizes the training and test",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 14,
-        "paper_sid": null,
-        "summary_text": "data from the 1998 SENSEVAL evaluation of word\r\n",
+        "source_id": 14,
+        "target_id": null,
+        "summary_text": "data from the 1998 SENSEVAL evaluation of word",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 15,
-        "paper_sid": null,
-        "summary_text": "sense disambiguation systems.The results of this approach\r\n",
+        "source_id": 15,
+        "target_id": null,
+        "summary_text": "sense disambiguation systems.The results of this approach",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 16,
-        "paper_sid": null,
-        "summary_text": "are compared with those from the 1998 SENSEVAL\r\n",
+        "source_id": 16,
+        "target_id": null,
+        "summary_text": "are compared with those from the 1998 SENSEVAL",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 17,
-        "paper_sid": null,
-        "summary_text": "word sense disambiguation exercise and show that\r\n",
+        "source_id": 17,
+        "target_id": null,
+        "summary_text": "word sense disambiguation exercise and show that",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 18,
-        "paper_sid": null,
-        "summary_text": "the bigram based decision tree approach is more accurate\r\n",
+        "source_id": 18,
+        "target_id": null,
+        "summary_text": "the bigram based decision tree approach is more accurate",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 19,
-        "paper_sid": null,
-        "summary_text": "than the best SENSEVAL results for 19 of 36\r\n",
+        "source_id": 19,
+        "target_id": null,
+        "summary_text": "than the best SENSEVAL results for 19 of 36",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 20,
-        "paper_sid": null,
-        "summary_text": "words.\n",
+        "source_id": 20,
+        "target_id": null,
+        "summary_text": "words.",
+        "paper_text": "",
         "match": ""
     }
 ]

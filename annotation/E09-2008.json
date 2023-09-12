@@ -1,32 +1,37 @@
 [
     {
-        "summary_sid": 1,
-        "paper_sid": null,
-        "summary_text": "This paper discusses Foma, a finite state compiler, programming language, and regular expression or finite-state library designed for multi-purpose use with explicit support for automata theoretic research, constructing lexical analyzers for programming languages, and building morphological or phonological analyzers and spellchecking applications.\n",
+        "source_id": 1,
+        "target_id": null,
+        "summary_text": "This paper discusses Foma, a finite state compiler, programming language, and regular expression or finite-state library designed for multi-purpose use with explicit support for automata theoretic research, constructing lexical analyzers for programming languages, and building morphological or phonological analyzers and spellchecking applications.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 2,
-        "paper_sid": null,
-        "summary_text": "The aim of Foma is to provide specific support for many natural language processing applications such as producing morphological and phonological analyzers.\n",
+        "source_id": 2,
+        "target_id": null,
+        "summary_text": "The aim of Foma is to provide specific support for many natural language processing applications such as producing morphological and phonological analyzers.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 3,
-        "paper_sid": null,
-        "summary_text": "Foma is licensed under the GNU general public license: in keeping with traditions of free software, the distribution that includes the source code comes with a user manual and a library of examples.\n",
+        "source_id": 3,
+        "target_id": null,
+        "summary_text": "Foma is licensed under the GNU general public license: in keeping with traditions of free software, the distribution that includes the source code comes with a user manual and a library of examples.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 4,
-        "paper_sid": null,
-        "summary_text": "Though the main concern with Foma has not been that of efficiency, but of compatibility and extendibility, from a usefulness perspective it is important to avoid bottlenecks in the underlying algorithms that can cause compilation times to skyrocket, especially when constructing and combining large lexical transducers.\n",
+        "source_id": 4,
+        "target_id": null,
+        "summary_text": "Though the main concern with Foma has not been that of efficiency, but of compatibility and extendibility, from a usefulness perspective it is important to avoid bottlenecks in the underlying algorithms that can cause compilation times to skyrocket, especially when constructing and combining large lexical transducers.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 5,
-        "paper_sid": null,
-        "summary_text": "Several widecoverage morphological analyzers specified in the LEXC/xfst format have been compiled successfully with Foma.\n",
+        "source_id": 5,
+        "target_id": null,
+        "summary_text": "Several widecoverage morphological analyzers specified in the LEXC/xfst format have been compiled successfully with Foma.",
+        "paper_text": "",
         "match": ""
     }
 ]

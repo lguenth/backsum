@@ -1,80 +1,93 @@
 [
     {
-        "summary_sid": 1,
-        "paper_sid": null,
-        "summary_text": "This paper discusses the Potsdam Commentary Corpus, a corpus of german assembeled by potsdam university.\n",
+        "source_id": 1,
+        "target_id": 3,
+        "summary_text": "This paper discusses the Potsdam Commentary Corpus, a corpus of german assembeled by potsdam university.",
+        "paper_text": "",
+        "match": "abstracted"
+    },
+    {
+        "source_id": 2,
+        "target_id": 3,
+        "summary_text": "The corpus was annoted with different linguitic information.the Potsdam Commentary Corpus or PCC consists of",
+        "paper_text": "",
+        "match": "abstracted"
+    },
+    {
+        "source_id": 3,
+        "target_id": 6,
+        "summary_text": "170 commentaries from M¨arkische Allgemeine Zeitung, a German regional daily.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 2,
-        "paper_sid": null,
-        "summary_text": "The corpus was annoted with different linguitic information.the Potsdam Commentary Corpus or PCC consists of\n",
+        "source_id": 4,
+        "target_id": null,
+        "summary_text": "This corpus includes 173 texts on politics from the on-line newspaper Märkische Allgemeine Zeitung.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 3,
-        "paper_sid": null,
-        "summary_text": "170 commentaries from M¨arkische Allgemeine Zeitung, a German regional daily.This corpus includes 173 texts on politics from the on-line newspaper\n",
+        "source_id": 5,
+        "target_id": null,
+        "summary_text": "It contains 32,962 words and 2,195 sentences.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 4,
-        "paper_sid": null,
-        "summary_text": "Märkische Allgemeine Zeitung.\n",
+        "source_id": 6,
+        "target_id": 1,
+        "summary_text": "It is annotated with several data: morphology, syntax, rhetorical structure, connectors, correference and informative structure.",
+        "paper_text": "",
+        "match": "abstracted"
+    },
+    {
+        "source_id": 7,
+        "target_id": null,
+        "summary_text": "",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 5,
-        "paper_sid": null,
-        "summary_text": "It contains 32,962 words and 2,195 sentences.\n",
+        "source_id": 8,
+        "target_id": null,
+        "summary_text": "Nevertheless, only a part of this corpus (10 texts), which the authors name \"core corpus\",",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 6,
-        "paper_sid": null,
-        "summary_text": "It is annotated with several data: morphology, syntax, rhetorical\n",
+        "source_id": 9,
+        "target_id": null,
+        "summary_text": "is annotated with all this information.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 7,
-        "paper_sid": null,
-        "summary_text": "structure, connectors, correference and informative structure.\n",
+        "source_id": 10,
+        "target_id": null,
+        "summary_text": "The texts were annotated with the RSTtool.",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 8,
-        "paper_sid": null,
-        "summary_text": "Nevertheless, only a part of this corpus (10 texts), which the authors name \"core corpus\",\n",
+        "source_id": 11,
+        "target_id": null,
+        "summary_text": "This corpus has several advantages: it is annotated at different",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 9,
-        "paper_sid": null,
-        "summary_text": "is annotated with all this information.\n",
+        "source_id": 12,
+        "target_id": null,
+        "summary_text": "levels.all the texts were annotated by two people.it is free for research purposes.The disadvantages are: the genre and domain of all the texts are the same, the",
+        "paper_text": "",
         "match": ""
     },
     {
-        "summary_sid": 10,
-        "paper_sid": null,
-        "summary_text": "The texts were annotated with the RSTtool.\n",
-        "match": ""
-    },
-    {
-        "summary_sid": 11,
-        "paper_sid": null,
-        "summary_text": "This corpus has several advantages: it is annotated at different\n",
-        "match": ""
-    },
-    {
-        "summary_sid": 12,
-        "paper_sid": null,
-        "summary_text": "levels.all the texts were annotated by two people.it is free for research purposes.The disadvantages are: the genre and domain of all the texts are the same, the\n",
-        "match": ""
-    },
-    {
-        "summary_sid": 13,
-        "paper_sid": null,
-        "summary_text": "methodology of annotation was quite intuitive and the inter-annotator agreement is not given.\n",
+        "source_id": 13,
+        "target_id": null,
+        "summary_text": "methodology of annotation was quite intuitive and the inter-annotator agreement is not given.",
+        "paper_text": "",
         "match": ""
     }
 ]

@@ -1,7 +1,7 @@
 <PAPER>
   <S sid="0">Exploiting Diversity in Natural Language Processing: Combining Parsers</S>
   <ABSTRACT>
-    <S sid="1" ssid="1">Three state-of-the-art statistical parsers are combined to produce more accurate parses, as well as new bounds on achievable Treebank parsing accuracy.</S>
+    <S sid="1" ssid="1">Three state-of-the-art statistical parsers are combined to produce more accurate parses, as well as new bounds on achievable Treebank parsing accuracy.</S>null
     <S sid="2" ssid="2">Two general approaches are presented and two combination techniques are described for each approach.</S>
     <S sid="3" ssid="3">Both parametric and non-parametric models are explored.</S>
     <S sid="4" ssid="4">The resulting parsers surpass the best previously published performance results for the Penn Treebank.</S>
