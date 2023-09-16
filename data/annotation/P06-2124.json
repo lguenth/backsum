@@ -1,10 +1,10 @@
 [
     {
         "source_id": 1,
-        "target_id": null,
+        "target_id": 15,
         "summary_text": "In this paper, the authors proposed a probabilistic admixture model to capture latent topics underlying the context of document- pairs.",
         "paper_text": "",
-        "match": ""
+        "match": "extractive"
     },
     {
         "source_id": 2,

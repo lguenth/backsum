@@ -1,17 +1,17 @@
 [
     {
         "source_id": 1,
-        "target_id": null,
+        "target_id": 2,
         "summary_text": "In this paper, Ben and Riloff present a coreference resolver called BABAR that focuses on the use of contextual-role knowledge for coreference resolution.",
         "paper_text": "",
-        "match": ""
+        "match": "abstractive"
     },
     {
         "source_id": 2,
-        "target_id": null,
+        "target_id": 6,
         "summary_text": "The problem of coreference resolution has received considerable attention, including theoretical discourse models and supervised machine learning systems.",
         "paper_text": "",
-        "match": ""
+        "match": "extractive"
     },
     {
         "source_id": 3,

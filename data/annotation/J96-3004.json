@@ -8,10 +8,10 @@
     },
     {
         "source_id": 2,
-        "target_id": null,
+        "target_id": 68,
         "summary_text": "It also incorporates the Good-Turing methodin estimating the likelihoods of previously unseen constructions, including morphological derivatives and personal names.",
         "paper_text": "",
-        "match": ""
+        "match": "extractive"
     },
     {
         "source_id": 3,
