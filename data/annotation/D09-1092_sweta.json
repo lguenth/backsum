@@ -1,0 +1,51 @@
+[
+    {
+        "source_id": 1,
+        "target_id": null,
+        "summary_text": "In this paper the author aims at introducing a polylingual topic model that discovers topics aligned across multiple languages.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 2,
+        "target_id": null,
+        "summary_text": "They explore the modelâs characteristics using two large corpora, each with over ten different languages, and demonstrate its usefulness in supporting machine translation and tracking topic trends across languages.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 3,
+        "target_id": null,
+        "summary_text": "Statistical topic models have emerged as an increasingly useful analysis tool for large text collections.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 4,
+        "target_id": null,
+        "summary_text": "Topic models have been used for analyzing topic trends in research literature, inferring captions for images, social network analysis in email, and expanding queries with topically related words in information retrieval.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 5,
+        "target_id": null,
+        "summary_text": "The author argues that topic modelling is both a useful and appropriate tool for leveraging correspondences between semantically comparable documents in multiple different languages.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 6,
+        "target_id": null,
+        "summary_text": "By linking topics across languages, polylingual topic models can increase cross-cultural understanding by providing readers with the ability to characterize the contents of collections in unfamiliar languages and identify trends in topic prevalence.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 7,
+        "target_id": null,
+        "summary_text": "When applied to comparable document collections such as Wikipedia, PLTM supports data-driven analysis of differences and similarities across all languages for readers who understand any one language.",
+        "paper_text": "",
+        "strategy": ""
+    }
+]

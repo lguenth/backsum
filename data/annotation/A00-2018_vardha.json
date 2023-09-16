@@ -1,0 +1,51 @@
+[
+    {
+        "source_id": 1,
+        "target_id": null,
+        "summary_text": "This paper talks about a Maximum-Entropy-Inspired Parser.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 2,
+        "target_id": null,
+        "summary_text": "The major technical innovation is the use of a \"maximum-entropy-inspired\" model for conditioning and smoothing that is to successfully to test and combine many different conditioning events.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 3,
+        "target_id": null,
+        "summary_text": "Here we present a new parser for parsing down to Penn tree-bank style parse trees that achieves 90.1~ average precision/recall for sentences of length < 40, and 89.5% for sentences of length < 100, when trained and tested on the previously established \"standard\" sections of the Wall Street Journal tree-bank.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 4,
+        "target_id": null,
+        "summary_text": "In our work we assume that any feature can occur at most once, so features are boolean-valued: 0 if the pattern does not occur, 1 if it does.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 5,
+        "target_id": null,
+        "summary_text": "The generative model assigns a probability to a parse by a top-down process of considering each constituent c in Ir and for each c first guessing the pre-terminal of c, t(c) (t for &amp;quot;tag&amp;quot;), then the lexical head of c, h(c), and then the expansion of c into further constituents e(c).",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 6,
+        "target_id": null,
+        "summary_text": "Ultimately it is this flexibility that let us try the various conditioning events, to move on to a Markov grammar approach, and to try several Markov grammars of different orders, without significant programming.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 7,
+        "target_id": null,
+        "summary_text": "Indeed, we initiated this line of work in an attempt to create a parser that would be flexible enough to allow modifications for parsing down to more semantic levels of detail.",
+        "paper_text": "",
+        "strategy": ""
+    }
+]

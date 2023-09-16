@@ -1,0 +1,65 @@
+[
+    {
+        "source_id": 1,
+        "target_id": null,
+        "summary_text": "Jeff Mitchell and Mirella Lapata in their paper 'Vector-based Models of Semantic Composition' present models of semantic",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 2,
+        "target_id": null,
+        "summary_text": "composition that are empirically grounded and can represent similarity relations.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 3,
+        "target_id": null,
+        "summary_text": "They present a general framework for vector-based composition consider both additive and multiplicative models of vector combination and assess their performance on a sentence similarity rating experiment.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 4,
+        "target_id": null,
+        "summary_text": "They propose a framework to represent the meaning of the combination u+v as a function f operating on four components:p = f (u, v, R, K).R is the relation holding between u and v, and K additional knowledge.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 5,
+        "target_id": null,
+        "summary_text": "Their results show that the multiplicative models are superior to additive when compared to human judgement.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 6,
+        "target_id": null,
+        "summary_text": "The multiplicative model yields a better fit with the experimental data, Ï = 0.17.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 7,
+        "target_id": null,
+        "summary_text": "The combined model is best overall with Ï = 0.19.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 8,
+        "target_id": null,
+        "summary_text": "However,the difference between the two models is not statistically significant.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 9,
+        "target_id": null,
+        "summary_text": "In order to understand vector composition in deep more research in the area is required.",
+        "paper_text": "",
+        "strategy": ""
+    }
+]

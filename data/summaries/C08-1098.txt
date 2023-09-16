@@ -1,4 +1,5 @@
-In this paper, Schmid and Laws present a  RFTagger or Hidden-Markov-Model (HMM) part-of-speech tagger  using German and Czech corpora.HMM tagging decomposes the POS tags into a set of simple attributes, and uses decision tree to estimate the probability of each attribute.
+In this paper, Schmid and Laws present a  RFTagger or Hidden-Markov-Model (HMM) part-of-speech tagger  using German and Czech corpora.
+HMM tagging decomposes the POS tags into a set of simple attributes, and uses decision tree to estimate the probability of each attribute.
 Decision tree assigns classes to objects which are represented as attribute vectors.
 Their tagger applies a beam-search strategy to increase the speed and uses dot to separate the attributes.
 It also applies pre-pruning citeria.

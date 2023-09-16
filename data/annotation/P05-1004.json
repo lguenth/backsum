@@ -4,55 +4,55 @@
         "target_id": null,
         "summary_text": "The limited coverage of lexical-semantic resources is a significant problem for NLP systems which can be alleviated by automatically classifying the unknown words.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 2,
         "target_id": null,
         "summary_text": "Supersense tagging assigns unknown nouns one of 26 broad semantic categories used by lexicographers to organise their manual insertion into WORDNET.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 3,
         "target_id": null,
         "summary_text": "Lexical-semantic resources have been applied successful to a wide range of Natural Language Processing (NLP) problems ranging from collocation extraction and class-based smoothing, to text classification and question answering.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 4,
         "target_id": null,
         "summary_text": "Some specialist topics are better covered in WORDNET than others.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 5,
         "target_id": null,
         "summary_text": "A considerable amount of research addresses structurally and statistically manipulating the hierarchy of WORDNET and the construction of new wordnet using the concept structure from English.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 6,
         "target_id": null,
         "summary_text": "Ciaramita and Johnson  implement a supersense tagger based on the multi-class preceptor classifier, which uses the standard collocation, spelling and syntactic features common in WSD and named entity recognition systems.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 7,
         "target_id": null,
         "summary_text": "The authors demonstrate the use of a very efficient shallow NLP pipeline to process a massive corpus.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 8,
         "target_id": null,
         "summary_text": "Such a corpus is needed to acquire reliable contextual information for the often very rare nouns they are attempting to supersense tag.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     }
 ]

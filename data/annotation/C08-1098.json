@@ -2,43 +2,50 @@
     {
         "source_id": 1,
         "target_id": null,
-        "summary_text": "In this paper, Schmid and Laws present a  RFTagger or Hidden-Markov-Model (HMM) part-of-speech tagger  using German and Czech corpora.HMM tagging decomposes the POS tags into a set of simple attributes, and uses decision tree to estimate the probability of each attribute.",
+        "summary_text": "In this paper, Schmid and Laws present a  RFTagger or Hidden-Markov-Model (HMM) part-of-speech tagger  using German and Czech corpora.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 2,
         "target_id": null,
-        "summary_text": "Decision tree assigns classes to objects which are represented as attribute vectors.",
+        "summary_text": "HMM tagging decomposes the POS tags into a set of simple attributes, and uses decision tree to estimate the probability of each attribute.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 3,
         "target_id": null,
-        "summary_text": "Their tagger applies a beam-search strategy to increase the speed and uses dot to separate the attributes.",
+        "summary_text": "Decision tree assigns classes to objects which are represented as attribute vectors.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 4,
         "target_id": null,
-        "summary_text": "It also applies pre-pruning citeria.",
+        "summary_text": "Their tagger applies a beam-search strategy to increase the speed and uses dot to separate the attributes.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 5,
         "target_id": null,
-        "summary_text": "Their tagger is fast and can be successfully applied to a wide range of languages and training corpora.",
+        "summary_text": "It also applies pre-pruning citeria.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     },
     {
         "source_id": 6,
         "target_id": null,
+        "summary_text": "Their tagger is fast and can be successfully applied to a wide range of languages and training corpora.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 7,
+        "target_id": null,
         "summary_text": "Their tagger is highly accurate in comparison to TnTagger and SVMTool.",
         "paper_text": "",
-        "match": ""
+        "strategy": ""
     }
 ]

@@ -12,7 +12,8 @@ two alternatives, the power divergence family
 and the Dice Coefficient were explored.
 this study utilizes the training and test
 data from the 1998 SENSEVAL evaluation of word
-sense disambiguation systems.The results of this approach
+sense disambiguation systems.
+The results of this approach
 are compared with those from the 1998 SENSEVAL
 word sense disambiguation exercise and show that
 the bigram based decision tree approach is more accurate

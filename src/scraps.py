@@ -32,3 +32,12 @@ def preprocess(data):
     model_inputs["labels"] = labels["input_ids"]
 
     return example, encoded_source
+
+
+# if bool(re.search("(?:[A-Z]\d{2}-\d{4})_(.*).human", summary.stem)):
+#     annotator = re.sub("(?:[A-Z]\d{2}-\d{4})_(.*).human", "\g<1>", summary.stem)
+
+
+# with open(path_plain, "w") as plain:
+#     plain.writelines([s + "\n" for s in sentences])
+    

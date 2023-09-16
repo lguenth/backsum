@@ -1,0 +1,44 @@
+[
+    {
+        "source_id": 1,
+        "target_id": null,
+        "summary_text": "This paper presents KenLM, a library that implements two data structures for efficient language model queries.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 2,
+        "target_id": null,
+        "summary_text": "The paper explains methods to query N-gram language models, minimizing time and space costs.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 3,
+        "target_id": null,
+        "summary_text": "It implements two data structures: PROBING , designed for speed, and TRIE , optimized for memory.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 4,
+        "target_id": null,
+        "summary_text": "It attains results using several optimizations: hashing,custom lookup tables, bit-level packing, and state for left-to-right query patterns.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 5,
+        "target_id": null,
+        "summary_text": "The PROBING model is 2.4 times as fast as the fastest alternative, SRILM, and uses less memory too.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 6,
+        "target_id": null,
+        "summary_text": "The TRIE model uses less memory than the smallest lossless alternative and is still faster than SRILM.",
+        "paper_text": "",
+        "strategy": ""
+    }
+]

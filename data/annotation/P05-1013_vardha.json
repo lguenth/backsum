@@ -1,0 +1,44 @@
+[
+    {
+        "source_id": 1,
+        "target_id": null,
+        "summary_text": "This paper talks about Pseudo-Projective Dependency Parsing.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 2,
+        "target_id": null,
+        "summary_text": "In order to realize the full potential of dependency-based syntactic parsing, it is desirable to allow non-projective dependency structures.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 3,
+        "target_id": null,
+        "summary_text": "The fact that projective dependency parsers can never exactly reproduce the analyses found in non-projective tree banks is often neglected because of the relative scarcity of problematic constructions.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 4,
+        "target_id": null,
+        "summary_text": "Here we show how non-projective dependency parsing can be achieved by combining a data driven projective parser with special graph transformation techniques.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 5,
+        "target_id": null,
+        "summary_text": "The overall parsing accuracy obtained with the pseudo-projective approach is still lower than for the best projective parsers.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 6,
+        "target_id": null,
+        "summary_text": "The main result is that the combined system can recover non-projective dependencies with a precision sufficient to give a significant improvement in overall parsing accuracy, especially with respect to the exact match criterion, leading to the best reported performance for robust non-projective parsing of Czech.",
+        "paper_text": "",
+        "strategy": ""
+    }
+]

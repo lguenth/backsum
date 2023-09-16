@@ -1,0 +1,51 @@
+[
+    {
+        "source_id": 1,
+        "target_id": null,
+        "summary_text": "This paper talks about Exploiting Diversity in Natural Language Processing: Combining Parsers.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 2,
+        "target_id": null,
+        "summary_text": "Two general approaches are presented and two combination techniques are described for each approach.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 3,
+        "target_id": null,
+        "summary_text": "Here both parametric and non-parametric models are explored.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 4,
+        "target_id": null,
+        "summary_text": "One can trivially create situations in which strictly binary-branching trees are combined to create a tree with only the root node and the terminal nodes, a completely flat structure.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 5,
+        "target_id": null,
+        "summary_text": "The three parsers were trained and tuned by their creators on various sections of the WSJ portion of the Penn Treebank.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 6,
+        "target_id": null,
+        "summary_text": "Through parser combination we have reduced the precision error rate by 30% and the recall error rate by 6% compared to the best previously published result.",
+        "paper_text": "",
+        "strategy": ""
+    },
+    {
+        "source_id": 7,
+        "target_id": null,
+        "summary_text": "Combining multiple highly-accurate independent parsers yields promising results.",
+        "paper_text": "",
+        "strategy": ""
+    }
+]
