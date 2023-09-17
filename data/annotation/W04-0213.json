@@ -1,107 +1,92 @@
 [
     {
         "source_id": 1,
-        "target_id": null,
+        "target_id": [
+            0,
+            3
+        ],
         "summary_text": "This paper discusses the Potsdam Commentary Corpus, a corpus of german assembeled by potsdam university.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 2,
-        "target_id": null,
-        "summary_text": "The corpus was annoted with different linguitic information.the Potsdam Commentary Corpus or PCC consists of",
+        "target_id": 3,
+        "summary_text": "The corpus was annoted with different linguitic information.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 3,
-        "target_id": null,
-        "summary_text": "170 commentaries from M¨arkische Allgemeine Zeitung, a German regional daily.",
+        "target_id": 6,
+        "summary_text": "the \"Potsdam Commentary Corpus\" or PCC consists of 170 commentaries from Ma¨rkische Allgemeine Zeitung, a German regional daily.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "extracted"
     },
     {
         "source_id": 4,
         "target_id": null,
-        "summary_text": "This corpus includes 173 texts on politics from the on-line newspaper",
+        "summary_text": "This corpus includes 173 texts on politics from the on-line newspaper Märkische Allgemeine Zeitung.",
         "paper_text": "",
         "strategy": ""
     },
     {
         "source_id": 5,
         "target_id": null,
-        "summary_text": "Märkische Allgemeine Zeitung.",
-        "paper_text": "",
-        "strategy": ""
-    },
-    {
-        "source_id": 6,
-        "target_id": null,
         "summary_text": "It contains 32,962 words and 2,195 sentences.",
         "paper_text": "",
         "strategy": ""
     },
     {
-        "source_id": 7,
-        "target_id": null,
-        "summary_text": "It is annotated with several data: morphology, syntax, rhetorical",
+        "source_id": 6,
+        "target_id": 1,
+        "summary_text": "It is annotated with several data: morphology, syntax, rhetorical structure, connectors, correference and informative structure.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
+    },
+    {
+        "source_id": 7,
+        "target_id": [
+            19,
+            154
+        ],
+        "summary_text": "Nevertheless, only a part of this corpus (10 texts), which the authors name \"core corpus\", is annotated with all this information.",
+        "paper_text": "",
+        "strategy": "abstracted"
     },
     {
         "source_id": 8,
-        "target_id": null,
-        "summary_text": "structure, connectors, correference and informative structure.",
+        "target_id": 28,
+        "summary_text": "The texts were annotated with the RSTtool.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 9,
-        "target_id": null,
-        "summary_text": "Nevertheless, only a part of this corpus (10 texts), which the authors name \"core corpus\",",
+        "target_id": 17,
+        "summary_text": "This corpus has several advantages: it is annotated at different levels.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 10,
-        "target_id": null,
-        "summary_text": "is annotated with all this information.",
+        "target_id": 45,
+        "summary_text": "All the texts were annotated by two people.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 11,
         "target_id": null,
-        "summary_text": "The texts were annotated with the RSTtool.",
+        "summary_text": "it is free for research purposes.",
         "paper_text": "",
         "strategy": ""
     },
     {
         "source_id": 12,
         "target_id": null,
-        "summary_text": "This corpus has several advantages: it is annotated at different",
+        "summary_text": "The disadvantages are: the genre and domain of all the texts are the same, the methodology of annotation was quite intuitive and the inter-annotator agreement is not given.",
         "paper_text": "",
-        "strategy": ""
-    },
-    {
-        "source_id": 13,
-        "target_id": null,
-        "summary_text": "levels.all the texts were annotated by two people.it is free for research purposes.",
-        "paper_text": "",
-        "strategy": ""
-    },
-    {
-        "source_id": 14,
-        "target_id": null,
-        "summary_text": "The disadvantages are: the genre and domain of all the texts are the same, the",
-        "paper_text": "",
-        "strategy": ""
-    },
-    {
-        "source_id": 15,
-        "target_id": null,
-        "summary_text": "methodology of annotation was quite intuitive and the inter-annotator agreement is not given.",
-        "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     }
 ]

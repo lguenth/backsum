@@ -1,51 +1,59 @@
 [
     {
         "source_id": 1,
-        "target_id": null,
+        "target_id": 0,
         "summary_text": "In this paper the authors present a stochastic finite-state model for segmenting Chinese text into words.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 2,
-        "target_id": null,
+        "target_id": 67,
         "summary_text": "The model incorporates various recent techniques for incorporating and manipulating linguistic knowledge using finite-state transducers.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "extracted"
     },
     {
         "source_id": 3,
-        "target_id": null,
+        "target_id": 68,
         "summary_text": "It also incorporates the Good-Turing methodin estimating the likelihoods of previously unseen constructions, including morphological derivatives and personal names.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "extracted"
     },
     {
         "source_id": 4,
-        "target_id": null,
+        "target_id": 69,
         "summary_text": "they evaluate various specific aspects of the segmentation, as well as the overall segmentation performance.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "extracted"
     },
     {
         "source_id": 5,
-        "target_id": null,
-        "summary_text": "The evaluation compares the performance of the system with that of several human judges and inter-human agreement on a single correct way to segment a text.they showed that the average agreement among the human judges is .76, and the average agreement between ST(system) and the humans is .75, or about 99% of the interhuman agreement.",
+        "target_id": 70,
+        "summary_text": "The evaluation compares the performance of the system with that of several human judges and inter-human agreement on a single correct way to segment a text.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "extracted"
     },
+    
     {
         "source_id": 6,
-        "target_id": null,
-        "summary_text": "This architecture provides a uniform framework in which it is easy to incorporate not only listed dictionary entries but also morphological derivatives, and models for personal names and foreign names in transliteration.",
+        "target_id": 325,
+        "summary_text": "they showed that the average agreement among the human judges is .76, and the average agreement between ST(system) and the humans is .75, or about 99% of the interhuman agreement.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "extracted"
     },
     {
         "source_id": 7,
-        "target_id": null,
+        "target_id": 399,
+        "summary_text": "This architecture provides a uniform framework in which it is easy to incorporate not only listed dictionary entries but also morphological derivatives, and models for personal names and foreign names in transliteration.",
+        "paper_text": "",
+        "strategy": "extracted"
+    },
+    {
+        "source_id": 8,
+        "target_id": 400,
         "summary_text": "Other kinds of productive word classes, such as company names, abbreviations,and place names can easily be handled given appropriate models.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "extracted"
     }
 ]

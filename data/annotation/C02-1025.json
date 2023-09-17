@@ -1,51 +1,51 @@
 [
     {
         "source_id": 1,
-        "target_id": null,
+        "target_id": 1,
         "summary_text": "This paper presents a maximum entropy-based named entity recognizer (NER).",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "extracted"
     },
     {
         "source_id": 2,
-        "target_id": null,
+        "target_id": 6,
         "summary_text": "NER is useful in many NLP applications such as information extraction, question answering, etc .Chieu and Ng have shown that the maximum entropy framework is able to use global information directly from various sources.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 3,
-        "target_id": null,
+        "target_id": 204,
         "summary_text": "They believe that global context is useful in most languages, as it is a natural tendency for authors to use abbreviations on entities already mentioned previously.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 4,
-        "target_id": null,
+        "target_id": [62, 63],
         "summary_text": "They have made use of local and global features to deal with the instances of same token in a document.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 5,
-        "target_id": null,
+        "target_id": 14,
         "summary_text": "Their results show that their high performance NER use less training data than other systems.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 6,
-        "target_id": null,
+        "target_id": 10,
         "summary_text": "The use of global features has shown excellent result in the performance on MUC-6 and MUC-7 test data.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     },
     {
         "source_id": 7,
-        "target_id": null,
+        "target_id": 198,
         "summary_text": "Using less training data than other systems, their NER can perform as well as other state-of-the-art NERs.",
         "paper_text": "",
-        "strategy": ""
+        "strategy": "abstracted"
     }
 ]
