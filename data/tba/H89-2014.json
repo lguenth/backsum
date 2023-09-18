@@ -1,0 +1,194 @@
+[
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "The paper aims at describing refinements that are currently being investigated in a model for part-ofspeech",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "assignment to words in unrestricted text.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The model has the advantage that a pre-tagged",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "training corpus is not required.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "The determination of part-of-speech categories for words is an",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "important problem in language modelling, because both the syntactic and semantic roles of words",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "depend on their part-of-speech category.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "The statistical methods can be described in terms of Markov",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 9,
+        "target_sid": null,
+        "source_text": "models.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 10,
+        "target_sid": null,
+        "source_text": "States in a model represent categories.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 11,
+        "target_sid": null,
+        "source_text": "In Hidden Markov model, the Baum-Welch algorithm",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 12,
+        "target_sid": null,
+        "source_text": "can be used to estimate the model parameters.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 13,
+        "target_sid": null,
+        "source_text": "This has the great advantage of eliminating the pretagged",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 14,
+        "target_sid": null,
+        "source_text": "corpus.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 15,
+        "target_sid": null,
+        "source_text": "It minimizes the resources required, facilitates experimentation with different word",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 16,
+        "target_sid": null,
+        "source_text": "categories, and is easily adapted for use with other languages.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 17,
+        "target_sid": null,
+        "source_text": "One aim of the work is to investigate",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 18,
+        "target_sid": null,
+        "source_text": "the quality and performance of models with minimal parameter descriptions.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 19,
+        "target_sid": null,
+        "source_text": "Many Lisp-specific word",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 20,
+        "target_sid": null,
+        "source_text": "categories were created for frequently occurring Lisp symbols in an attempt to reduce bias in the",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 21,
+        "target_sid": null,
+        "source_text": "estimation.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 22,
+        "target_sid": null,
+        "source_text": "A stochastic method for assigning part-of-speech categories to unrestricted English text",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 23,
+        "target_sid": null,
+        "source_text": "has been described.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H89-2014",
+        "paper_id": "H89-2014",
+        "source_sid": 24,
+        "target_sid": null,
+        "source_text": "It minimizes the resources required for high performance automatic tagging.",
+        "strategy": null
+    }
+]

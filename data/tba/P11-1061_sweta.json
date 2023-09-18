@@ -1,0 +1,58 @@
+[
+    {
+        "summary_id": "P11-1061_sweta",
+        "paper_id": "P11-1061",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper the author aims at describing a novel approach for inducing unsupervised part-of-speech taggers for languages that have no labelled training data, but have translated text in a resource-rich language.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_sweta",
+        "paper_id": "P11-1061",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "They use graph-based label propagation for cross-lingual knowledge transfer and use the projected labels as features in an unsupervised model.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_sweta",
+        "paper_id": "P11-1061",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Supervised learning approaches have advanced the state-of-the-art on a variety of tasks in natural language processing, resulting in highly accurate systems.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_sweta",
+        "paper_id": "P11-1061",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "Unsupervised learning approaches appear to be a natural solution to this problem, as they require only unannotated text for training models.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_sweta",
+        "paper_id": "P11-1061",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "To bridge this gap, the author considers a practically motivated scenario, in which he wants to leverage existing resources from a resource-rich language when building tools for resource-poor foreign languages.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_sweta",
+        "paper_id": "P11-1061",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "Their final average POS tagging accuracy of 83.4% compares very favourably to the average accuracy of Berg-Kirkpatrick et al.âs monolingual unsupervised state-of-the-art model (73.0%), and considerably bridges the gap to fully supervised POS tagging performance (96.6%).Their results suggest that it is possible to learn accurate POS taggers for languages which do not have any annotated data, but have translations into a resource-rich language.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_sweta",
+        "paper_id": "P11-1061",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "Their results outperform strong unsupervised baselines as well as approaches that rely on direct projections, and bridge the gap between purely supervised and unsupervised POS tagging models.",
+        "strategy": null
+    }
+]

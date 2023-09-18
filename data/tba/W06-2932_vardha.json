@@ -1,0 +1,58 @@
+[
+    {
+        "summary_id": "W06-2932_vardha",
+        "paper_id": "W06-2932",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper talks about Multilingual Dependency Analysis with a Two-Stage Discriminative Parser.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W06-2932_vardha",
+        "paper_id": "W06-2932",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "Here we present a two-stage multilingual dependency parser and evaluate it on 13 diverse languages.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W06-2932_vardha",
+        "paper_id": "W06-2932",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The first stage of our system creates an unlabeled parse y for an input sentence x.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W06-2932_vardha",
+        "paper_id": "W06-2932",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The second stage takes the output parse y for sentence x and classifies each edge (i, j) E y with a particular label l (i,j).",
+        "strategy": null
+    },
+    {
+        "summary_id": "W06-2932_vardha",
+        "paper_id": "W06-2932",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "Performance is measured through unlabeled accuracy, which is the percentage of words that modify the correct head in the dependency graph, and labeled accuracy, which is the percentage of words that modify the correct head and label the edge correctly in the graph.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W06-2932_vardha",
+        "paper_id": "W06-2932",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "The current system simply includes all morphological bi-gram features.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W06-2932_vardha",
+        "paper_id": "W06-2932",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "It is our hope that a better morphological feature set will help with both unlabeled parsing and labeling for highly inflected languages.",
+        "strategy": null
+    }
+]

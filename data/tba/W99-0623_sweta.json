@@ -1,0 +1,74 @@
+[
+    {
+        "summary_id": "W99-0623_sweta",
+        "paper_id": "W99-0623",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper the author aims at three state-of-the-art statistical parsers which are combined to produce more accurate parses, as well as new bounds on achievable Treebank parsing accuracy.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_sweta",
+        "paper_id": "W99-0623",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "Two general approaches are presented and two combination techniques are described for each approach.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_sweta",
+        "paper_id": "W99-0623",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The natural language processing community is in the strong position of having many available approaches to solve some of its most fundamental problems.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_sweta",
+        "paper_id": "W99-0623",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "Recently, combination techniques have been investigated for part of speech tagging with positive results.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_sweta",
+        "paper_id": "W99-0623",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "In both cases the investigators were able to achieve significant improvements over the previous best tagging results.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_sweta",
+        "paper_id": "W99-0623",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "Similar advances have been made in machine translation, speech recognition and named entity recognition.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_sweta",
+        "paper_id": "W99-0623",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "They have presented two general approaches to studying parser combination: parser switching and parse hybridization.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_sweta",
+        "paper_id": "W99-0623",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "Combining multiple highly-accurate independent parsers yields promising results.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_sweta",
+        "paper_id": "W99-0623",
+        "source_sid": 9,
+        "target_sid": null,
+        "source_text": "The author plans to explore more powerful techniques for exploiting the diversity of parsing methods.",
+        "strategy": null
+    }
+]

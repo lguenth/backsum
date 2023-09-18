@@ -1,0 +1,122 @@
+[
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper discusses the Potsdam Commentary Corpus, a corpus of german assembeled by potsdam university.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The corpus was annoted with different linguitic information.the Potsdam Commentary Corpus or PCC consists of",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "170 commentaries from M¨arkische Allgemeine Zeitung, a German regional daily.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "This corpus includes 173 texts on politics from the on-line newspaper",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "Märkische Allgemeine Zeitung.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "It contains 32,962 words and 2,195 sentences.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "It is annotated with several data: morphology, syntax, rhetorical",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "structure, connectors, correference and informative structure.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 9,
+        "target_sid": null,
+        "source_text": "Nevertheless, only a part of this corpus (10 texts), which the authors name \"core corpus\",",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 10,
+        "target_sid": null,
+        "source_text": "is annotated with all this information.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 11,
+        "target_sid": null,
+        "source_text": "The texts were annotated with the RSTtool.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 12,
+        "target_sid": null,
+        "source_text": "This corpus has several advantages: it is annotated at different",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 13,
+        "target_sid": null,
+        "source_text": "levels.all the texts were annotated by two people.it is free for research purposes.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 14,
+        "target_sid": null,
+        "source_text": "The disadvantages are: the genre and domain of all the texts are the same, the",
+        "strategy": null
+    },
+    {
+        "summary_id": "W04-0213",
+        "paper_id": "W04-0213",
+        "source_sid": 15,
+        "target_sid": null,
+        "source_text": "methodology of annotation was quite intuitive and the inter-annotator agreement is not given.",
+        "strategy": null
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "summary_id": "P05-1013_vardha",
+        "paper_id": "P05-1013",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper talks about Pseudo-Projective Dependency Parsing.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1013_vardha",
+        "paper_id": "P05-1013",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "In order to realize the full potential of dependency-based syntactic parsing, it is desirable to allow non-projective dependency structures.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1013_vardha",
+        "paper_id": "P05-1013",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The fact that projective dependency parsers can never exactly reproduce the analyses found in non-projective tree banks is often neglected because of the relative scarcity of problematic constructions.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1013_vardha",
+        "paper_id": "P05-1013",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "Here we show how non-projective dependency parsing can be achieved by combining a data driven projective parser with special graph transformation techniques.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1013_vardha",
+        "paper_id": "P05-1013",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "The overall parsing accuracy obtained with the pseudo-projective approach is still lower than for the best projective parsers.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1013_vardha",
+        "paper_id": "P05-1013",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "The main result is that the combined system can recover non-projective dependencies with a precision sufficient to give a significant improvement in overall parsing accuracy, especially with respect to the exact match criterion, leading to the best reported performance for robust non-projective parsing of Czech.",
+        "strategy": null
+    }
+]

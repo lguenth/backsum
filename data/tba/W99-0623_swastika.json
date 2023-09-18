@@ -1,0 +1,50 @@
+[
+    {
+        "summary_id": "W99-0623_swastika",
+        "paper_id": "W99-0623",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper, Henderson and Brill combined three state-of-the-art statistical parsers to produce more accurate parses, as well as new bounds on achievable Treebank parsing accuracy.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_swastika",
+        "paper_id": "W99-0623",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The two general approaches presented to studying parser combination were parser switching and parse hybridization and two combination techniques were described for each approach.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_swastika",
+        "paper_id": "W99-0623",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Both parametric and non-parametric techniques were given for each experiment.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_swastika",
+        "paper_id": "W99-0623",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "All four of the techniques studied resulted in parsing systems that performed better than any previously reported.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_swastika",
+        "paper_id": "W99-0623",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "Both of the switching techniques and the parametric hybridization technique were also shown to be robust when a poor parser was introduced into the experiment.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0623_swastika",
+        "paper_id": "W99-0623",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "Through parser combination, they reduced the precision error rate by 30% and the recall error rate by 6% compared to the best previously published performance results for the Penn Treebank.",
+        "strategy": null
+    }
+]

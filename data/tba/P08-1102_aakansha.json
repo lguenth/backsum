@@ -1,0 +1,26 @@
+[
+    {
+        "summary_id": "P08-1102_aakansha",
+        "paper_id": "P08-1102",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "Wenbin Jiang,Liang Huang,Qun Liu and Yajuan Lu in their paper 'A Cascaded Linear Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging'proposes a cascaded linear model inspired by the log-linear model for joint Chinese word segmentation and POS tagging.the cascaded model has a two-layer architecture, with a character based perceptron as the core combined with other real-valued features such as language models.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1102_aakansha",
+        "paper_id": "P08-1102",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "Other than the usual character-based features, additional features dependent on POSâs or words are also employed to improve the performance.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1102_aakansha",
+        "paper_id": "P08-1102",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Experimental results show that, it achieves obvious improvement over the perceptron-only model, about from 0.973 to 0.978 on segmentation, and from 0.925 to 0.934 on Joint S&T, with error reductions of 18.5% and 12% respectively.",
+        "strategy": null
+    }
+]

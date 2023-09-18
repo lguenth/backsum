@@ -1,0 +1,58 @@
+[
+    {
+        "summary_id": "P11-1060_aakansha",
+        "paper_id": "P11-1060",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "The paper 'Learning Dependency-Based Compositional Semantics' by Percy Liang,Michael I. Jordan and Dan Klein propose a new way to map questions to answers via latent logical forms, which are induced automatically from question-answer pairs.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_aakansha",
+        "paper_id": "P11-1060",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The main technical contribution of this work is a new semantic representation, dependency-based compositional semantics (DCS), which is both simple and expressive.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_aakansha",
+        "paper_id": "P11-1060",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The logical forms in this framework are trees, which is desirable for two reasons: (i) they parallel syntactic dependency trees,which facilitates parsing and learning; and (ii) evaluating them to obtain the answer is computationally efficient.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_aakansha",
+        "paper_id": "P11-1060",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The logical forms in DCS are called DCS trees,where nodes are labeled with predicates, and edges are labeled with relations.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_aakansha",
+        "paper_id": "P11-1060",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "DCS trees are learned from Question-Answer pairs and database entries.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_aakansha",
+        "paper_id": "P11-1060",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "They trained their model using an EM-like algorithm on two benchmarks, GEO and JOBS.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_aakansha",
+        "paper_id": "P11-1060",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "Their system outperforms all existing systems despite using no annotated logical forms.",
+        "strategy": null
+    }
+]

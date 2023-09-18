@@ -1,0 +1,58 @@
+[
+    {
+        "summary_id": "E03-1020",
+        "paper_id": "E03-1020",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper describes an algorithm which automatically discovers word senses from free text and maps them to the appropriate entries of existing dictionary or, taxonomies.",
+        "strategy": null
+    },
+    {
+        "summary_id": "E03-1020",
+        "paper_id": "E03-1020",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "It is based on a graph model representing words and relationships between them.",
+        "strategy": null
+    },
+    {
+        "summary_id": "E03-1020",
+        "paper_id": "E03-1020",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "A word sense algorithm is outlined which bypasses the problem of parameter turning.",
+        "strategy": null
+    },
+    {
+        "summary_id": "E03-1020",
+        "paper_id": "E03-1020",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The authors describe the experiment that examines the performance of their algorithm on a set of words with varying degree of ambiguity.",
+        "strategy": null
+    },
+    {
+        "summary_id": "E03-1020",
+        "paper_id": "E03-1020",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "They also present a sample of the results.",
+        "strategy": null
+    },
+    {
+        "summary_id": "E03-1020",
+        "paper_id": "E03-1020",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "The algorithm recognises and resolves ambiguity.",
+        "strategy": null
+    },
+    {
+        "summary_id": "E03-1020",
+        "paper_id": "E03-1020",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "It gives rise to an automatic, unsupervised word sense disambiguation algorithm.",
+        "strategy": null
+    }
+]

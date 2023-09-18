@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "D09-1092_vardha",
+        "paper_id": "D09-1092",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper talks about Polylingual Topic Models.",
+        "strategy": null
+    },
+    {
+        "summary_id": "D09-1092_vardha",
+        "paper_id": "D09-1092",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The main keywords annotated in this paper are Polylingual Topic Model, languages and parallel documents.",
+        "strategy": null
+    },
+    {
+        "summary_id": "D09-1092_vardha",
+        "paper_id": "D09-1092",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "This paper introduces a Polylingual topic model that discovers topics aligned across multiple languages.",
+        "strategy": null
+    },
+    {
+        "summary_id": "D09-1092_vardha",
+        "paper_id": "D09-1092",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The Polylingual topic model (PLTM) is an extension of latent Dirichlet allocation (LDA) for modeling Polylingual document tuples.",
+        "strategy": null
+    },
+    {
+        "summary_id": "D09-1092_vardha",
+        "paper_id": "D09-1092",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "First, we explore whether comparable document tuples support the alignment of fine-grained topics, as demonstrated earlier using parallel documents.",
+        "strategy": null
+    },
+    {
+        "summary_id": "D09-1092_vardha",
+        "paper_id": "D09-1092",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "This property is useful for building machine translation systems as well as for human readers.",
+        "strategy": null
+    },
+    {
+        "summary_id": "D09-1092_vardha",
+        "paper_id": "D09-1092",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "Second, because comparable texts may not use exactly the same topics, it becomes crucially important to be able to characterize differences in topic prevalence at the document level and at the language-wide level.",
+        "strategy": null
+    },
+    {
+        "summary_id": "D09-1092_vardha",
+        "paper_id": "D09-1092",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "When applied to comparable document collections such as Wikipedia, PLTM supports data-driven analysis of differences and similarities across all languages for readers who understand any one language.",
+        "strategy": null
+    }
+]

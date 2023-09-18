@@ -1,58 +1,66 @@
 [
     {
-        "source_id": 1,
-        "target_id": 0,
-        "summary_text": "This paper conducted research in the area of automatic paraphrase discovery.",
-        "paper_text": "",
-        "strategy": "abstracted"
+        "summary_id": "I05-5011",
+        "paper_id": "I05-5011",
+        "source_sid": 1,
+        "target_sid": 0,
+        "source_text": "This paper conducted research in the area of automatic paraphrase discovery.",
+        "strategy": "abstractive"
     },
     {
-        "source_id": 2,
-        "target_id": 203,
-        "summary_text": "The authors believe automatic paraphrase discovery is an important component for building a fully automatic information extraction system.",
-        "paper_text": "",
-        "strategy": "abstracted"
+        "summary_id": "I05-5011",
+        "paper_id": "I05-5011",
+        "source_sid": 2,
+        "target_sid": 203,
+        "source_text": "The authors believe automatic paraphrase discovery is an important component for building a fully automatic information extraction system.",
+        "strategy": "abstractive"
     },
     {
-        "source_id": 3,
-        "target_id": 2,
-        "summary_text": "They proposed an unsupervised method to discover paraphrases from a large untagged corpus.",
-        "paper_text": "",
-        "strategy": "abstracted"
+        "summary_id": "I05-5011",
+        "paper_id": "I05-5011",
+        "source_sid": 3,
+        "target_sid": 2,
+        "source_text": "They proposed an unsupervised method to discover paraphrases from a large untagged corpus.",
+        "strategy": "abstractive"
     },
     {
-        "source_id": 4,
-        "target_id": 3,
-        "summary_text": "They focused on phrases which two Named Entities, and proceed in two stages.",
-        "paper_text": "",
-        "strategy": "abstracted"
+        "summary_id": "I05-5011",
+        "paper_id": "I05-5011",
+        "source_sid": 4,
+        "target_sid": 3,
+        "source_text": "They focused on phrases which two Named Entities, and proceed in two stages.",
+        "strategy": "abstractive"
     },
     {
-        "source_id": 5,
-        "target_id": 12,
-        "summary_text": "This topic has been getting more attention, driven by the needs of various NLP applications.",
-        "paper_text": "",
-        "strategy": "abstracted"
+        "summary_id": "I05-5011",
+        "paper_id": "I05-5011",
+        "source_sid": 5,
+        "target_sid": 12,
+        "source_text": "This topic has been getting more attention, driven by the needs of various NLP applications.",
+        "strategy": "abstractive"
     },
     {
-        "source_id": 6,
-        "target_id": 18,
-        "summary_text": "Most IE researchers have been creating paraphrase knowledge by hand and specific tasks.",
-        "paper_text": "",
-        "strategy": "abstracted"
+        "summary_id": "I05-5011",
+        "paper_id": "I05-5011",
+        "source_sid": 6,
+        "target_sid": 18,
+        "source_text": "Most IE researchers have been creating paraphrase knowledge by hand and specific tasks.",
+        "strategy": "abstractive"
     },
     {
-        "source_id": 7,
-        "target_id": 158,
-        "summary_text": "The authors cluster NE instance pairs based on the words in the context using bag-of-words methods.",
-        "paper_text": "",
-        "strategy": "abstracted"
+        "summary_id": "I05-5011",
+        "paper_id": "I05-5011",
+        "source_sid": 7,
+        "target_sid": 158,
+        "source_text": "The authors cluster NE instance pairs based on the words in the context using bag-of-words methods.",
+        "strategy": "abstractive"
     },
     {
-        "source_id": 8,
-        "target_id": 159,
-        "summary_text": "In order to create good-sized vectors for similarity calculation, they had to set a high frequency threshold.",
-        "paper_text": "",
-        "strategy": "abstracted"
+        "summary_id": "I05-5011",
+        "paper_id": "I05-5011",
+        "source_sid": 8,
+        "target_sid": 159,
+        "source_text": "In order to create good-sized vectors for similarity calculation, they had to set a high frequency threshold.",
+        "strategy": "abstractive"
     }
 ]

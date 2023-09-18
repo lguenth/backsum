@@ -1,0 +1,42 @@
+[
+    {
+        "summary_id": "P04-1036_swastika",
+        "paper_id": "P04-1036",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "McCarthy et all presented work on the use of a thesaurus acquired from raw textual corpora and the WordNet similarity package to find predominant noun senses from two domain specific corpora automatically.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_swastika",
+        "paper_id": "P04-1036",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The acquired predominant senses gave a of 64% on the nouns of the 2 English all-words task, a very promising result given that their method did not require any hand-tagged text.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_swastika",
+        "paper_id": "P04-1036",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "They had devised a method that used raw corpus data to automatically find a predominant sense for nouns in WordNet and used an automatically acquired thesaurus and a WordNet Similarity measure.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_swastika",
+        "paper_id": "P04-1036",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "They were evaluated against the hand-tagged resources SemCor and the SENSEVAL-2 English all-words task giving them a WSD precision of 64% on an all-nouns task.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_swastika",
+        "paper_id": "P04-1036",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "In many cases, the sense ranking provided in SemCor differed to that obtained automatically because they used the BNC to produce their thesaurus.",
+        "strategy": null
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "summary_id": "P08-1043_sweta",
+        "paper_id": "P08-1043",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper they propose a single joint model for performing both morphological segmentation and syntactic disambiguation which bypasses the associated circularity.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1043_sweta",
+        "paper_id": "P08-1043",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "Using a Treebank grammar, a data-driven lexicon, and a linguistically motivated unknown-tokens handling technique their model outperforms previous pipelined, integrated or factorized systems for Hebrew morphological and syntactic processing, yielding an error reduction of 12% over the best published results so far.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1043_sweta",
+        "paper_id": "P08-1043",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "One way to approach this discrepancy is to assume a preceding phase of morphological segmentation for extracting the different lexical items that exist at the token level (as is done, to the best of our knowledge, in all parsing related work on Arabic and its dialects.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1043_sweta",
+        "paper_id": "P08-1043",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The implication of this ambiguity for a parser is that the yield of syntactic trees no longer consists of space delimited tokens, and the expected number of leaves in the syntactic analysis in not known in advance.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1043_sweta",
+        "paper_id": "P08-1043",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "Using a wide-coverage morphological analyzer based on should cater for a better coverage, and incorporating lexical probabilities learned from a big (unannotated) corpus will make the parser more robust and suitable for use in more realistic scenarios.",
+        "strategy": null
+    }
+]

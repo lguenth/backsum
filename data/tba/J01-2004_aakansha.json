@@ -1,0 +1,34 @@
+[
+    {
+        "summary_id": "J01-2004_aakansha",
+        "paper_id": "J01-2004",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "Brian Roark in his paper'Probabilistic Top-Down Parsing and Language Modeling'proposes a new language model, based on probabilistic top-down parsing.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J01-2004_aakansha",
+        "paper_id": "J01-2004",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "Their top-down parser allows for the incremental calculation of generative conditional word probabilities and top-down guidance also improves the efficiency of the search as more and more conditioning events are extracted from the derivation for use in the probabilistic model.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J01-2004_aakansha",
+        "paper_id": "J01-2004",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "It uses a PCFG (Probabilistic (or stochastic) context-free grammars (PCFGs)) with a conditional probability model.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J01-2004_aakansha",
+        "paper_id": "J01-2004",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The parser gave a remarkable precision rate of 94.1, for sentences of length less than or equal to 100.This implies that using multiple model in one parser to deal with different aspects of language can be fruitful.",
+        "strategy": null
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "W99-0613_sweta",
+        "paper_id": "W99-0613",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper the author aims at discussing the use of unlabeled examples for the problem of named entity classification.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_sweta",
+        "paper_id": "W99-0613",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "Many statistical or machine-learning approaches for natural language problems require a relatively large amount of supervision, in the form of labelled training examples.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_sweta",
+        "paper_id": "W99-0613",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The task is to learn a function from an input string to its type, which we will assume to be one of the categories Person, Organization, or Location.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_sweta",
+        "paper_id": "W99-0613",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "Supervised methods have been applied quite successfully to the full MUC named-entity task.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_sweta",
+        "paper_id": "W99-0613",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "The algorithm can be viewed as heuristically optimizing an objective function; empirically it is shown to be quite successful in optimizing this criterion.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_sweta",
+        "paper_id": "W99-0613",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "The AdaBoost algorithm was developed for supervised learning.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_sweta",
+        "paper_id": "W99-0613",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "They are currently exploring other methods that employ similar ideas and their formal properties.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_sweta",
+        "paper_id": "W99-0613",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "Future work should also extend the approach to build a complete named entity extractor, a method that pulls proper names from text and then classifies them.",
+        "strategy": null
+    }
+]

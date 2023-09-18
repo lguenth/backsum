@@ -1,0 +1,34 @@
+[
+    {
+        "summary_id": "A00-2018_akanksha",
+        "paper_id": "A00-2018",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "A maximum-entropy-inspired parser is a novel approach for parsing.the authors propose to improve the accuracy of parsing by employing probablistic generative method.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2018_akanksha",
+        "paper_id": "A00-2018",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The parser is inspired by maximum-entropy model for conditioning and smoothing.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2018_akanksha",
+        "paper_id": "A00-2018",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Feature sets are used for conditioning and deleted interpolation method is used for smoothing.the model uses a Markov-grammar approach.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2018_akanksha",
+        "paper_id": "A00-2018",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The lexicalized Markov grammar parsing model achieves an average accuracy of 91.1% on sentences of length less than or equal to 40 and 89.5% on sentences of length less than or equal to 100 which corresponds to an error reduction of 13%.the major achievement along with the accuracy is the strategy of guessing pre-terminal before guessing head,it improved the performance by 2%.This suggests that the flexibility offered by maximum-entropy model may give better results in future if conditioned with different grammars.",
+        "strategy": null
+    }
+]

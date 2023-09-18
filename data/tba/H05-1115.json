@@ -1,0 +1,154 @@
+[
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "The authorsâ aim is to consider the problem of question focused sentence retrieval from complex news",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "articles describing multi-event stories published over time.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Annotators generated a list of questions",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "central to understanding each story in our corpus.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "Recent work has motivated the need for systems",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "that support âInformation Synthesisâ tasks, in which a user seeks a global understanding of a topic or",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "story.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "The specific problem they consider differs from the classic task of PR for a Q&A system in",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 9,
+        "target_sid": null,
+        "source_text": "interesting ways, due to the time-sensitive nature of the stories in our corpus.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 10,
+        "target_sid": null,
+        "source_text": "They aim to develop a",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 11,
+        "target_sid": null,
+        "source_text": "method for sentence retrieval that goes beyond finding sentences that are similar to a single query.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 12,
+        "target_sid": null,
+        "source_text": "To",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 13,
+        "target_sid": null,
+        "source_text": "this end, they propose to use a stochastic, graph-based method.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 14,
+        "target_sid": null,
+        "source_text": "To evaluate their sentence retrieval",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 15,
+        "target_sid": null,
+        "source_text": "mechanism, they produced extract files, which contain a list of sentence deemed to be relevant to the",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 16,
+        "target_sid": null,
+        "source_text": "question, for the system and from human judgment.",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 17,
+        "target_sid": null,
+        "source_text": "During the task, they have shown that over a",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 18,
+        "target_sid": null,
+        "source_text": "large set of unaltered questions written by their annotators, LexRank can, on average, outperform the",
+        "strategy": null
+    },
+    {
+        "summary_id": "H05-1115",
+        "paper_id": "H05-1115",
+        "source_sid": 19,
+        "target_sid": null,
+        "source_text": "baseline system, particularly in terms of TRDR scores.",
+        "strategy": null
+    }
+]

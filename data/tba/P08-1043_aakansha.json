@@ -1,0 +1,26 @@
+[
+    {
+        "summary_id": "P08-1043_aakansha",
+        "paper_id": "P08-1043",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "Yoav Goldberg and Reut Tsarfaty in their paper'A Single Generative Model for Joint Morphological Segmentation and Syntactic Parsing' propose a single model that performs morphological segmentation and syntactic disambiguation in a fully generative framework.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1043_aakansha",
+        "paper_id": "P08-1043",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The data was taken from the Hebrew Treebank.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1043_aakansha",
+        "paper_id": "P08-1043",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "They employed PCFG and used BitPar, an efficient general purpose parser,together with various treebank grammars to parse the input sentences and propose compatible morphological segmentation and syntactic analysis and a data-driven morphological analyzer .Their model outperforms previous pipelined, integrated or factorized systems for Hebrew morphological and syntactic processing, yielding an error reduction of 12% over the best published results so far.",
+        "strategy": null
+    }
+]

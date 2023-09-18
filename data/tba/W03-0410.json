@@ -1,0 +1,50 @@
+[
+    {
+        "summary_id": "W03-0410",
+        "paper_id": "W03-0410",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper, the authors used a semi-supervised method for verb class discovery using Noisy Features.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W03-0410",
+        "paper_id": "W03-0410",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The feature set was previously shown to work well in a supervised learning setting, using known English verb classes.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W03-0410",
+        "paper_id": "W03-0410",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "They face the problem of having a large number of irrelevant features for a particular clustering task.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W03-0410",
+        "paper_id": "W03-0410",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "They used the hierarchical clustering command in Matlab, which implements bottom-up agglomerative clustering, for all the unsupervised experiments.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W03-0410",
+        "paper_id": "W03-0410",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "The evaluation was based on the accuracy of assigning members to the correct clusters.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W03-0410",
+        "paper_id": "W03-0410",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "The authors discuss their clustering approach to identify that the task becomes difficult if the learning method has to distinguish multiple classes, rather than focus on the important properties of a single class.",
+        "strategy": null
+    }
+]

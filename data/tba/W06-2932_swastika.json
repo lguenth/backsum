@@ -1,0 +1,34 @@
+[
+    {
+        "summary_id": "W06-2932_swastika",
+        "paper_id": "W06-2932",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "McDonald et all presented a two-stage multilingual pendency parser and evaluate it on 13 diverse languages.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W06-2932_swastika",
+        "paper_id": "W06-2932",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The first stage based on the unlabeled dependency parsing models described by McDonald and Pereira was augmented with morphological features for a subset of the languages.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W06-2932_swastika",
+        "paper_id": "W06-2932",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The second stage took the output from the first and labels all the edges in the dependency graph with appropriate syntactic categories using a globally trained sequence classifier over components of the graph.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W06-2932_swastika",
+        "paper_id": "W06-2932",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "They reported results on the CoNLL-X shared task data sets and presented an error analysis and presented results showing that the spanning tree dependency parsing framework of theirs generalized well to languages other than English.",
+        "strategy": null
+    }
+]

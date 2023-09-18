@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "A00-2030_vardha",
+        "paper_id": "A00-2030",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper talks about A Novel Use of Statistical Parsing to Extract Information from Text.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_vardha",
+        "paper_id": "A00-2030",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "We report adapting a lexicalized, probabilistic context-free parser to information extraction and evaluate this new technique on MUC-7 template elements and template relations.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_vardha",
+        "paper_id": "A00-2030",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Our integrated model represents syntax and semantics jointly using augmented parse trees.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_vardha",
+        "paper_id": "A00-2030",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "In these trees, the standard TREEBANK structures are augmented to convey semantic information, that is, entities and relations.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_vardha",
+        "paper_id": "A00-2030",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "We describe the algorithm that was used to automatically produce augmented trees, starting with a) human-generated semantic annotations and b) machine generated syntactic parse trees.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_vardha",
+        "paper_id": "A00-2030",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "We were able to use the Penn TREEBANK to estimate the syntactic parameters; no additional syntactic training was required.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_vardha",
+        "paper_id": "A00-2030",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "The semantic training corpus was produced by students according to a simple set of guidelines.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_vardha",
+        "paper_id": "A00-2030",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "This simple semantic annotation was the only source of task knowledge used to configure the model.",
+        "strategy": null
+    }
+]

@@ -1,51 +1,58 @@
 [
     {
-        "source_id": 1,
-        "target_id": 0,
-        "summary_text": "This paper talks about Exploiting Diversity in Natural Language Processing: Combining Parsers.",
-        "paper_text": "",
-        "strategy": "abstracted"
+        "summary_id": "W99-0623_vardha",
+        "paper_id": "W99-0623",
+        "source_sid": 1,
+        "target_sid": 0,
+        "source_text": "This paper talks about Exploiting Diversity in Natural Language Processing: Combining Parsers.",
+        "strategy": "abstractive"
     },
     {
-        "source_id": 2,
-        "target_id": 2,
-        "summary_text": "Two general approaches are presented and two combination techniques are described for each approach.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "W99-0623_vardha",
+        "paper_id": "W99-0623",
+        "source_sid": 2,
+        "target_sid": 2,
+        "source_text": "Two general approaches are presented and two combination techniques are described for each approach.",
+        "strategy": "extractive"
     },
     {
-        "source_id": 3,
-        "target_id": 3,
-        "summary_text": "Here both parametric and non-parametric models are explored.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "W99-0623_vardha",
+        "paper_id": "W99-0623",
+        "source_sid": 3,
+        "target_sid": 3,
+        "source_text": "Here both parametric and non-parametric models are explored.",
+        "strategy": "extractive"
     },
     {
-        "source_id": 4,
-        "target_id": 37,
-        "summary_text": "One can trivially create situations in which strictly binary-branching trees are combined to create a tree with only the root node and the terminal nodes, a completely flat structure.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "W99-0623_vardha",
+        "paper_id": "W99-0623",
+        "source_sid": 4,
+        "target_sid": 51,
+        "source_text": "One can trivially create situations in which strictly binary-branching trees are combined to create a tree with only the root node and the terminal nodes, a completely flat structure.",
+        "strategy": "extractive"
     },
     {
-        "source_id": 5,
-        "target_id": 72,
-        "summary_text": "The three parsers were trained and tuned by their creators on various sections of the WSJ portion of the Penn Treebank.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "W99-0623_vardha",
+        "paper_id": "W99-0623",
+        "source_sid": 5,
+        "target_sid": 72,
+        "source_text": "The three parsers were trained and tuned by their creators on various sections of the WSJ portion of the Penn Treebank.",
+        "strategy": "extractive"
     },
     {
-        "source_id": 6,
-        "target_id": 143,
-        "summary_text": "Through parser combination we have reduced the precision error rate by 30% and the recall error rate by 6% compared to the best previously published result.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "W99-0623_vardha",
+        "paper_id": "W99-0623",
+        "source_sid": 6,
+        "target_sid": 143,
+        "source_text": "Through parser combination we have reduced the precision error rate by 30% and the recall error rate by 6% compared to the best previously published result.",
+        "strategy": "extractive"
     },
     {
-        "source_id": 7,
-        "target_id": 144,
-        "summary_text": "Combining multiple highly-accurate independent parsers yields promising results.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "W99-0623_vardha",
+        "paper_id": "W99-0623",
+        "source_sid": 7,
+        "target_sid": 144,
+        "source_text": "Combining multiple highly-accurate independent parsers yields promising results.",
+        "strategy": "extractive"
     }
 ]

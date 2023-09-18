@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "A97-1014_sweta",
+        "paper_id": "A97-1014",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "The author aims at describing an annotation scheme and a tool developed for creating linguistically annotated corpora for non-configurational languages.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A97-1014_sweta",
+        "paper_id": "A97-1014",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "It also aims at providing syntactically annotated corpora ('treebanks') for stochastic grammar induction.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A97-1014_sweta",
+        "paper_id": "A97-1014",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "In particular, they focus on several methodological issues concerning the annotation of non-configurational languages.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A97-1014_sweta",
+        "paper_id": "A97-1014",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "They will closely coordinate the further development of the corpus with the annotation work in Verbmobil and with other German efforts in corpus annotation.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A97-1014_sweta",
+        "paper_id": "A97-1014",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "Since the combinatorics of syntactic constructions creates a demand for very large corpora, efficiency of annotation is an important criterion for the success of the developed methodology and tools.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A97-1014_sweta",
+        "paper_id": "A97-1014",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "Their annotation tool supplies efficient manipulation and immediate visualization of argument structures.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A97-1014_sweta",
+        "paper_id": "A97-1014",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "Partial automation included it, the current version significantly reduces the manual effort.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A97-1014_sweta",
+        "paper_id": "A97-1014",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "Its extension is subject to further investigations.",
+        "strategy": null
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "P05-1004",
+        "paper_id": "P05-1004",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "The limited coverage of lexical-semantic resources is a significant problem for NLP systems which can be alleviated by automatically classifying the unknown words.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1004",
+        "paper_id": "P05-1004",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "Supersense tagging assigns unknown nouns one of 26 broad semantic categories used by lexicographers to organise their manual insertion into WORDNET.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1004",
+        "paper_id": "P05-1004",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Lexical-semantic resources have been applied successful to a wide range of Natural Language Processing (NLP) problems ranging from collocation extraction and class-based smoothing, to text classification and question answering.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1004",
+        "paper_id": "P05-1004",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "Some specialist topics are better covered in WORDNET than others.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1004",
+        "paper_id": "P05-1004",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "A considerable amount of research addresses structurally and statistically manipulating the hierarchy of WORDNET and the construction of new wordnet using the concept structure from English.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1004",
+        "paper_id": "P05-1004",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "Ciaramita and Johnson  implement a supersense tagger based on the multi-class preceptor classifier, which uses the standard collocation, spelling and syntactic features common in WSD and named entity recognition systems.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1004",
+        "paper_id": "P05-1004",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "The authors demonstrate the use of a very efficient shallow NLP pipeline to process a massive corpus.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1004",
+        "paper_id": "P05-1004",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "Such a corpus is needed to acquire reliable contextual information for the often very rare nouns they are attempting to supersense tag.",
+        "strategy": null
+    }
+]

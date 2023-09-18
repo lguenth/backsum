@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper talks about Unsupervised Models for Named Entity Classification.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "A large number of rules are needed for coverage of the domain, suggesting that a fairly large number of labeled examples should be required to train a classifier.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Here we present two algorithms.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The first method builds on results from (Yarowsky 95) and (Blum and Mitchell 98).",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "The second algorithm builds on a boosting algorithm called AdaBoost.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "The AdaBoost algorithm was developed for supervised learning.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "We chose one of four labels for each example: location, person, organization, or noise where the noise category was used for items that were outside the three categories.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "The contextual rules are restricted and may not be applicable to every example, but the spelling rules are generally applicable and should have good coverage.",
+        "strategy": null
+    }
+]

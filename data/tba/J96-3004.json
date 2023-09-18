@@ -1,0 +1,58 @@
+[
+    {
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper the authors present a stochastic finite-state model for segmenting Chinese text into words.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The model incorporates various recent techniques for incorporating and manipulating linguistic knowledge using finite-state transducers.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "It also incorporates the Good-Turing methodin estimating the likelihoods of previously unseen constructions, including morphological derivatives and personal names.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "they evaluate various specific aspects of the segmentation, as well as the overall segmentation performance.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "The evaluation compares the performance of the system with that of several human judges and inter-human agreement on a single correct way to segment a text.they showed that the average agreement among the human judges is .76, and the average agreement between ST(system) and the humans is .75, or about 99% of the interhuman agreement.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "This architecture provides a uniform framework in which it is easy to incorporate not only listed dictionary entries but also morphological derivatives, and models for personal names and foreign names in transliteration.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "Other kinds of productive word classes, such as company names, abbreviations,and place names can easily be handled given appropriate models.",
+        "strategy": null
+    }
+]

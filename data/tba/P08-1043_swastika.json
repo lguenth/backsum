@@ -1,0 +1,42 @@
+[
+    {
+        "summary_id": "P08-1043_swastika",
+        "paper_id": "P08-1043",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "They proposed a single joint model for performing both morphological segmentation and syntactic disambiguation which bypasses the associated circularity.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1043_swastika",
+        "paper_id": "P08-1043",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "They employed a PCFG-based generative framework to make both syntactic and morphological disambiguation decisions which were not only theoretically clean and linguistically justified but also probabilistically appropriate and empirically sound.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1043_swastika",
+        "paper_id": "P08-1043",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The overall performance of their joint framework demonstrated that a probability distribution obtained over mere syntactic contexts using a Treebank grammar and a data-driven lexicon outperformed upper bounds proposed by previous joint disambiguation systems and achieved segmentation and parsing results on a par with state-of-the-art standalone applications results.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1043_swastika",
+        "paper_id": "P08-1043",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "They showed better grammars to improve performance on both morphological and syntactic tasks, providing support for the advantage of a joint framework over pipelined or factorized ones.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1043_swastika",
+        "paper_id": "P08-1043",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "Using a treebank grammar, the data-driven lexicon, and a linguistically motivated unknown-tokens handling technique their model outperformed previous pipelined, integrated or factorized systems for Hebrew morphological and syntactic processing, yielding an error reduction of 12% over the best published results so far.",
+        "strategy": null
+    }
+]

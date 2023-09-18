@@ -1,0 +1,50 @@
+[
+    {
+        "summary_id": "P08-1102_sweta",
+        "paper_id": "P08-1102",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper aims at proposing a cascaded linear model for joint Chinese word segmentation and part-of- speech tagging.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1102_sweta",
+        "paper_id": "P08-1102",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "With a character-based perceptron as the core, combined with realvalued features such as language models, the cascaded model is able to efficiently utilize knowledge sources that are inconvenient to incorporate into the perceptron directly.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1102_sweta",
+        "paper_id": "P08-1102",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Word segmentation and part-of-speech (POS) tagging are important tasks in computer processing of Chinese and other Asian languages.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1102_sweta",
+        "paper_id": "P08-1102",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "However, as such features are generated dynamically during the decoding procedure, two limitations arise: on the one hand, the amount of parameters increases rapidly, which is apt to overfit on training corpus; on the other hand, exact inference by dynamic programming is intractable because the current predication relies on the results of prior predications.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1102_sweta",
+        "paper_id": "P08-1102",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "To cope with this problem, we propose a cascaded linear model inspired by the log-linear model widely used in statistical machine translation to incorporate different kinds of knowledge sources.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1102_sweta",
+        "paper_id": "P08-1102",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "In addition, all knowledge sources we used in the core perceptron and the outside-layer linear model come from the training corpus, whereas many open knowledge sources can be used to improve performance.",
+        "strategy": null
+    }
+]

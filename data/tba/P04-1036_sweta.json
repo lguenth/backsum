@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "P04-1036_sweta",
+        "paper_id": "P04-1036",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper aims at presenting work on the use of a thesaurus acquired from raw textual corpora and the WordNet similarity package to find predominant noun senses automatically.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_sweta",
+        "paper_id": "P04-1036",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The acquired predominant senses give a precision of 64% on the nouns of the SENSEVAL- 2 English all-words task.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_sweta",
+        "paper_id": "P04-1036",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "This is a very promising result given that our method does not require any hand-tagged text, such as SemCor.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_sweta",
+        "paper_id": "P04-1036",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The first sense heuristic which is often used as a baseline for supervised WSD systems outperforms many of these systems which take surrounding context into account.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_sweta",
+        "paper_id": "P04-1036",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "They believe that an automatic means of finding a predominant sense would be useful for systems that use it as a means of backing-off and for systems that use it in lexical acquisition because of the limited size of hand-tagged resources.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_sweta",
+        "paper_id": "P04-1036",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "The first sense of star in SemCor is celestial body; however, if one were disambiguating popular news celebrity would be preferred.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_sweta",
+        "paper_id": "P04-1036",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "Later, they would perform a large scale evaluation on domain specific corpora.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_sweta",
+        "paper_id": "P04-1036",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "In particular, we will use balanced and domain specific corpora to isolate words having very different neighbours, and therefore rankings, in the different corpora and to detect and target words for which there is a highly skewed sense distribution in these corpora.",
+        "strategy": null
+    }
+]

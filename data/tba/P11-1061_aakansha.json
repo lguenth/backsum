@@ -1,0 +1,82 @@
+[
+    {
+        "summary_id": "P11-1061_aakansha",
+        "paper_id": "P11-1061",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "Dipanjan Das and Slav Petrov in their paper 'Unsupervised Part-of-Speech Tagging with Bilingual Graph-Based Projections' propose a new approach for developing unsupervised part-of-speech taggers for languages that have no labeled training data, but have translated text in a resource-rich language.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_aakansha",
+        "paper_id": "P11-1061",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "They use a novel graph-based framework for projecting syntactic information across language boundaries.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_aakansha",
+        "paper_id": "P11-1061",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "They construct a bilingual graph",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_aakansha",
+        "paper_id": "P11-1061",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "over word types to establish a connection between the two languages, and then use graph label propagation to project syntactic information from",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_aakansha",
+        "paper_id": "P11-1061",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "English to the foreign language.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_aakansha",
+        "paper_id": "P11-1061",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "They treat the projected labels as features in an unsupervised model, rather than using them directly for supervised training.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_aakansha",
+        "paper_id": "P11-1061",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "To make the projection practical,they used the twelve universal part-of-speech tags.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_aakansha",
+        "paper_id": "P11-1061",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "The focus of this work is on building POS taggers for foreign languages, including an English POS tagger and some parallel text between the two languages.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_aakansha",
+        "paper_id": "P11-1061",
+        "source_sid": 9,
+        "target_sid": null,
+        "source_text": "Their results outperform strong unsupervised baselines as well as approaches that rely on direct projections, and bridge the gap between purely supervised and unsupervised",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1061_aakansha",
+        "paper_id": "P11-1061",
+        "source_sid": 10,
+        "target_sid": null,
+        "source_text": "POS tagging models.",
+        "strategy": null
+    }
+]

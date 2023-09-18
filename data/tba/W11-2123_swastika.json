@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "W11-2123_swastika",
+        "paper_id": "W11-2123",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "The authors presented, in this paper, KenLM, a library that implemented two data structures for efficient language model queries, reducing both time and costs.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W11-2123_swastika",
+        "paper_id": "W11-2123",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The structure used linear probing hash tables and was designed for speed.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W11-2123_swastika",
+        "paper_id": "W11-2123",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The PROBING model was 2.4 times as fast as the fastest alternative, SRILM, and used less memory too.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W11-2123_swastika",
+        "paper_id": "W11-2123",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The TRIE model used less memory than the smallest lossless alternative and was still faster than SRILM.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W11-2123_swastika",
+        "paper_id": "W11-2123",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "These performance gained transfer to improved system run time performance.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W11-2123_swastika",
+        "paper_id": "W11-2123",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "Though they focused on Moses, their code was the best lossless option with cdec and Joshua.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W11-2123_swastika",
+        "paper_id": "W11-2123",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "They attained these results using several optimizations: hashing, custom look up tables, bit-level packing, and state for left-to-right query patterns.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W11-2123_swastika",
+        "paper_id": "W11-2123",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "The code was open source, had minimal dependencies, and offered both C++ and Java interfaces for integration.",
+        "strategy": null
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "summary_id": "P11-1060_sweta",
+        "paper_id": "P11-1060",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper, the author aims to map questions to answers via latent logical forms, which are induced automatically from question-answer pairs.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_sweta",
+        "paper_id": "P11-1060",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "In tackling this challenging learning problem, he introduces a new semantic representation which highlights a parallel between dependency syntax and efficient evaluation of logical forms.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_sweta",
+        "paper_id": "P11-1060",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The dominant paradigm in compositional semantics is Montague semantics, which constructs lambda calculus forms in a bottom-up manner.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_sweta",
+        "paper_id": "P11-1060",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "CCG is one instantiation, which is used by many semantic parsers.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_sweta",
+        "paper_id": "P11-1060",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "The main technical contribution of this work is a new semantic representation, dependency-based compositional semantics (DCS), which is both simple and expressive.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_sweta",
+        "paper_id": "P11-1060",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "The logical forms in this framework are trees, which is desirable for two reasons: (i) they parallel syntactic dependency trees, which facilitates parsing and learning; and (ii) evaluating them to obtain the answer is computationally efficient.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P11-1060_sweta",
+        "paper_id": "P11-1060",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "Free from the burden of annotating logical forms, the author hopes to use their techniques in developing even more accurate and broader-coverage language understanding systems.",
+        "strategy": null
+    }
+]

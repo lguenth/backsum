@@ -1,0 +1,58 @@
+[
+    {
+        "summary_id": "C08-1098",
+        "paper_id": "C08-1098",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper, Schmid and Laws present a  RFTagger or Hidden-Markov-Model (HMM) part-of-speech tagger  using German and Czech corpora.",
+        "strategy": null
+    },
+    {
+        "summary_id": "C08-1098",
+        "paper_id": "C08-1098",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "HMM tagging decomposes the POS tags into a set of simple attributes, and uses decision tree to estimate the probability of each attribute.",
+        "strategy": null
+    },
+    {
+        "summary_id": "C08-1098",
+        "paper_id": "C08-1098",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Decision tree assigns classes to objects which are represented as attribute vectors.",
+        "strategy": null
+    },
+    {
+        "summary_id": "C08-1098",
+        "paper_id": "C08-1098",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "Their tagger applies a beam-search strategy to increase the speed and uses dot to separate the attributes.",
+        "strategy": null
+    },
+    {
+        "summary_id": "C08-1098",
+        "paper_id": "C08-1098",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "It also applies pre-pruning citeria.",
+        "strategy": null
+    },
+    {
+        "summary_id": "C08-1098",
+        "paper_id": "C08-1098",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "Their tagger is fast and can be successfully applied to a wide range of languages and training corpora.",
+        "strategy": null
+    },
+    {
+        "summary_id": "C08-1098",
+        "paper_id": "C08-1098",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "Their tagger is highly accurate in comparison to TnTagger and SVMTool.",
+        "strategy": null
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "summary_id": "P04-1036_vardha",
+        "paper_id": "P04-1036",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper talks about Finding Predominant Word Senses in Untagged Text.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_vardha",
+        "paper_id": "P04-1036",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "We present work on the use of a thesaurus acquired from raw textual corpora and the Word Net similarity package to find predominant noun senses automatically.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_vardha",
+        "paper_id": "P04-1036",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The first sense heuristic which is often used as a baseline for supervised WSD systems outperforms many of these systems which take surrounding context into account.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_vardha",
+        "paper_id": "P04-1036",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "We demonstrate that choosing texts from a particular domain has a significant influence on the sense ranking.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_vardha",
+        "paper_id": "P04-1036",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "A major benefit of our work, rather than reliance on hand-tagged training data such as SemCor, is that this method permits us to produce predominant senses for the domain and text type required.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_vardha",
+        "paper_id": "P04-1036",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "We have devised a method that uses raw corpus data to automatically find a predominant sense for nouns in Word Net.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P04-1036_vardha",
+        "paper_id": "P04-1036",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "Whilst we have used Word Net as our sense inventory, it would be possible to use this method with another inventory given a measure of semantic relatedness between the neighbors and the senses.",
+        "strategy": null
+    }
+]

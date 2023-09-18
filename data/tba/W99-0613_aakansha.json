@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "W99-0613_aakansha",
+        "paper_id": "W99-0613",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "This paper discusses the use of unlabeled examples for the problem of named entity classification.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_aakansha",
+        "paper_id": "W99-0613",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The task is to learn a function from an in-",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_aakansha",
+        "paper_id": "W99-0613",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "put string (proper name) to its type.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_aakansha",
+        "paper_id": "W99-0613",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The approach uses both spelling and contextual rules.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_aakansha",
+        "paper_id": "W99-0613",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "A spelling rule might be a simple look-up for the string or a rule that looks at words within a string.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_aakansha",
+        "paper_id": "W99-0613",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "They introduced a new algorithm for learning from unlabeled examples, which they called DL-",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_aakansha",
+        "paper_id": "W99-0613",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "Co'Train (DL stands for decision list, the term Cot r a i n is taken from (Blum and Mitchell 98)).It also presents a boosting-like framework that builds on ideas from (Blum and Mitchell 98).",
+        "strategy": null
+    },
+    {
+        "summary_id": "W99-0613_aakansha",
+        "paper_id": "W99-0613",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "The method uses a \"soft\" measure of the agreement between two classifiers as an objective function;it describes an algorithm which directly optimizes this function.",
+        "strategy": null
+    }
+]

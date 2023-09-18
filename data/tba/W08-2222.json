@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "W08-2222",
+        "paper_id": "W08-2222",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper, the authors describe Boxer, their open-domain software component for semantic analysis of text, based on Combinatory Categorical Grammar (CCG) and Discourse Representation Theory (DRT).",
+        "strategy": null
+    },
+    {
+        "summary_id": "W08-2222",
+        "paper_id": "W08-2222",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "Boxer is an open-domain software component for semantic analysis of text, based on Combinatory Categorical Grammar (CCG) and Discourse Representation Theory (DRT).",
+        "strategy": null
+    },
+    {
+        "summary_id": "W08-2222",
+        "paper_id": "W08-2222",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Based on Discourse Representation Theory Boxer is able to construct Discourse Representation Structures (DRSs for short, informally called âboxesâ because of the way they are graphically displayed) for English sentences and texts.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W08-2222",
+        "paper_id": "W08-2222",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "Boxer implements a syntax-semantics interface based on Combinatory Categorical Grammar, CCG.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W08-2222",
+        "paper_id": "W08-2222",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "Because the syntax-semantics is clearly defined, the choice of logical form can be independent of the categorical framework underlying it.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W08-2222",
+        "paper_id": "W08-2222",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "Boxerâs performance on the shared task for comparing semantic representations was promising.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W08-2222",
+        "paper_id": "W08-2222",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "It was able to produce DRSs for all texts.",
+        "strategy": null
+    },
+    {
+        "summary_id": "W08-2222",
+        "paper_id": "W08-2222",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "The authors canât quantify the quality of Boxerâs output, as they donât have gold standard representations at our disposal.",
+        "strategy": null
+    }
+]

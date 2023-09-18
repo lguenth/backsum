@@ -1,0 +1,34 @@
+[
+    {
+        "summary_id": "P05-1013_swastika",
+        "paper_id": "P05-1013",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "Authors Nilsson and Nivre showed how a data-driven deterministic dependency parser, in itself restricted to projective structures, can be combined with graph transformation techniques to produce non-projective structures.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1013_swastika",
+        "paper_id": "P05-1013",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "Experiments using data from the Prague Dependency Treebank showed that the combined system can handle non-projective constructions with a precision sufficient to yield a significant improvement in overall parsing accuracy.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1013_swastika",
+        "paper_id": "P05-1013",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "The combined system could recover non-projective dependencies with a precision sufficient to give a significant improvement in overall parsing accuracy, especially with respect to the exact match criterion.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P05-1013_swastika",
+        "paper_id": "P05-1013",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "This led to the best reported performance for robust non-projective parsing of Czech.",
+        "strategy": null
+    }
+]

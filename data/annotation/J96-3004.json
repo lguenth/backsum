@@ -1,59 +1,66 @@
 [
     {
-        "source_id": 1,
-        "target_id": 0,
-        "summary_text": "In this paper the authors present a stochastic finite-state model for segmenting Chinese text into words.",
-        "paper_text": "",
-        "strategy": "abstracted"
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 1,
+        "target_sid": 0,
+        "source_text": "In this paper the authors present a stochastic finite-state model for segmenting Chinese text into words.",
+        "strategy": "abstractive"
     },
     {
-        "source_id": 2,
-        "target_id": 67,
-        "summary_text": "The model incorporates various recent techniques for incorporating and manipulating linguistic knowledge using finite-state transducers.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 2,
+        "target_sid": 67,
+        "source_text": "The model incorporates various recent techniques for incorporating and manipulating linguistic knowledge using finite-state transducers.",
+        "strategy": "extractive"
     },
     {
-        "source_id": 3,
-        "target_id": 68,
-        "summary_text": "It also incorporates the Good-Turing methodin estimating the likelihoods of previously unseen constructions, including morphological derivatives and personal names.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 3,
+        "target_sid": 68,
+        "source_text": "It also incorporates the Good-Turing methodin estimating the likelihoods of previously unseen constructions, including morphological derivatives and personal names.",
+        "strategy": "extractive"
     },
     {
-        "source_id": 4,
-        "target_id": 69,
-        "summary_text": "they evaluate various specific aspects of the segmentation, as well as the overall segmentation performance.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 4,
+        "target_sid": 69,
+        "source_text": "they evaluate various specific aspects of the segmentation, as well as the overall segmentation performance.",
+        "strategy": "extractive"
     },
     {
-        "source_id": 5,
-        "target_id": 70,
-        "summary_text": "The evaluation compares the performance of the system with that of several human judges and inter-human agreement on a single correct way to segment a text.",
-        "paper_text": "",
-        "strategy": "extracted"
-    },
-    
-    {
-        "source_id": 6,
-        "target_id": 325,
-        "summary_text": "they showed that the average agreement among the human judges is .76, and the average agreement between ST(system) and the humans is .75, or about 99% of the interhuman agreement.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 5,
+        "target_sid": 70,
+        "source_text": "The evaluation compares the performance of the system with that of several human judges and inter-human agreement on a single correct way to segment a text.",
+        "strategy": "extractive"
     },
     {
-        "source_id": 7,
-        "target_id": 399,
-        "summary_text": "This architecture provides a uniform framework in which it is easy to incorporate not only listed dictionary entries but also morphological derivatives, and models for personal names and foreign names in transliteration.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 6,
+        "target_sid": 325,
+        "source_text": "they showed that the average agreement among the human judges is .76, and the average agreement between ST(system) and the humans is .75, or about 99% of the interhuman agreement.",
+        "strategy": "extractive"
     },
     {
-        "source_id": 8,
-        "target_id": 400,
-        "summary_text": "Other kinds of productive word classes, such as company names, abbreviations,and place names can easily be handled given appropriate models.",
-        "paper_text": "",
-        "strategy": "extracted"
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 7,
+        "target_sid": 399,
+        "source_text": "This architecture provides a uniform framework in which it is easy to incorporate not only listed dictionary entries but also morphological derivatives, and models for personal names and foreign names in transliteration.",
+        "strategy": "extractive"
+    },
+    {
+        "summary_id": "J96-3004",
+        "paper_id": "J96-3004",
+        "source_sid": 8,
+        "target_sid": 400,
+        "source_text": "Other kinds of productive word classes, such as company names, abbreviations,and place names can easily be handled given appropriate models.",
+        "strategy": "extractive"
     }
 ]

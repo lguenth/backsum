@@ -1,0 +1,34 @@
+[
+    {
+        "summary_id": "E03-1005_swastika",
+        "paper_id": "E03-1005",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper, Ren Bods proposes an integration of two existing DOP models (one which computes the parse tree involving the most frequent subtrees from a treebank and one which computes the parse tree involving the fewest subtrees from a treebank)which outperforms each of them separately.",
+        "strategy": null
+    },
+    {
+        "summary_id": "E03-1005_swastika",
+        "paper_id": "E03-1005",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "They showed that a PCFG-reduction of DOP in combination with a new notion of the best parse tree resulted in fast processing times and very competitive accuracy on the Wall Street Journal treebank.",
+        "strategy": null
+    },
+    {
+        "summary_id": "E03-1005_swastika",
+        "paper_id": "E03-1005",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "They also re-affirmed that the coarsegrained approach of using all subtrees from a treebank outperforms the fine-grained approach of specifically modeling lexical-syntactic dependencies.",
+        "strategy": null
+    },
+    {
+        "summary_id": "E03-1005_swastika",
+        "paper_id": "E03-1005",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "The results showed an 11% relative reduction in error rate over previous models, and an average processing time of 3.6 seconds per WSJ sentence.",
+        "strategy": null
+    }
+]

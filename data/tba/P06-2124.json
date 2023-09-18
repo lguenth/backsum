@@ -1,0 +1,50 @@
+[
+    {
+        "summary_id": "P06-2124",
+        "paper_id": "P06-2124",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper, the authors proposed a probabilistic admixture model to capture latent topics underlying the context of document- pairs.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P06-2124",
+        "paper_id": "P06-2124",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "They proposed a new statistical formalism: Bilingual Topic AdMixture model, or BiTAM, to facilitate topic-based word alignment in SMT.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P06-2124",
+        "paper_id": "P06-2124",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "They used IBM Model I as the baseline.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P06-2124",
+        "paper_id": "P06-2124",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "They investigated three instances of the BiTAM model, They were data-driven and did not need handcrafted knowledge engineering.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P06-2124",
+        "paper_id": "P06-2124",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "The proposed models signiï¬cantly improved the alignment accuracy and lead to better translation qualities.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P06-2124",
+        "paper_id": "P06-2124",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "Incorporation of within-sentence dependencies such as the alignment-jumps and distortions, and a better treatment of the source monolingual model worth further investigations.",
+        "strategy": null
+    }
+]

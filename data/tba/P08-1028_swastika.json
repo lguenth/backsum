@@ -1,0 +1,66 @@
+[
+    {
+        "summary_id": "P08-1028_swastika",
+        "paper_id": "P08-1028",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper, Mitchell and Lapata proposed a framework for vector-based semantic composition.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1028_swastika",
+        "paper_id": "P08-1028",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "Central to their approach was vector composition which they operationalize in terms of additive and multiplicative functions.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1028_swastika",
+        "paper_id": "P08-1028",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Under this framework, they introduced a wide range of composition models which they evaluated empirically on a sentence similarity task.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1028_swastika",
+        "paper_id": "P08-1028",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "Experimental results demonstrated that the multiplicative models were superior- at least, for the sentence similarity task attempted- to the additive alternatives when compared against human judgments.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1028_swastika",
+        "paper_id": "P08-1028",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "They conjectured that the additive models are not sensitive to the fine-grained meaning distinctions involved in their materials.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1028_swastika",
+        "paper_id": "P08-1028",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "Multiplicative models considered a subset, namely non-zero components whereas additive models captured composition by considering all vector components representing the meaning of the verb and its subject.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1028_swastika",
+        "paper_id": "P08-1028",
+        "source_sid": 7,
+        "target_sid": null,
+        "source_text": "The resulting vector is sparser but expresses more succinctly the meaning of the predicate-argument structure, and thus allows semantic similarity to be modelled more accurately.",
+        "strategy": null
+    },
+    {
+        "summary_id": "P08-1028_swastika",
+        "paper_id": "P08-1028",
+        "source_sid": 8,
+        "target_sid": null,
+        "source_text": "Further research would be needed to gain a deeper understanding of vector composition, both in terms of modeling a wider range of structures.",
+        "strategy": null
+    }
+]

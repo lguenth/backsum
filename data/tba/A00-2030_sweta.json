@@ -1,0 +1,50 @@
+[
+    {
+        "summary_id": "A00-2030_sweta",
+        "paper_id": "A00-2030",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "In this paper the author aimed at reporting, adapting a lexicalized, probabilistic context-free parser to information extraction and evaluate the new technique on MUC-7 template elements and template relations.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_sweta",
+        "paper_id": "A00-2030",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "The author is able to integrate both syntactic and semantic information into the parsing process, thus avoiding potential errors of syntax first followed by semantics.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_sweta",
+        "paper_id": "A00-2030",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "Their parsing algorithm, trained on the UPenn TREEBANK, was run on the New York Times source to create unsupervised syntactic training which was constrained to be consistent with semantic annotation.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_sweta",
+        "paper_id": "A00-2030",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "They were able to specify relatively simple guidelines that students with no training in computational linguistics could annotate.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_sweta",
+        "paper_id": "A00-2030",
+        "source_sid": 5,
+        "target_sid": null,
+        "source_text": "The semantic training corpus was produced by students according to a simple set of guidelines.",
+        "strategy": null
+    },
+    {
+        "summary_id": "A00-2030_sweta",
+        "paper_id": "A00-2030",
+        "source_sid": 6,
+        "target_sid": null,
+        "source_text": "This simple semantic annotation was the only source of task knowledge used to configure the model.",
+        "strategy": null
+    }
+]

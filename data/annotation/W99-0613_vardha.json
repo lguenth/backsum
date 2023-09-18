@@ -1,58 +1,66 @@
 [
     {
-        "source_id": 1,
-        "target_id": 0,
-        "summary_text": "This paper talks about Unsupervised Models for Named Entity Classification.",
-        "paper_text": "",
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 1,
+        "target_sid": 0,
+        "source_text": "This paper talks about Unsupervised Models for Named Entity Classification.",
         "strategy": "extractive"
     },
     {
-        "source_id": 2,
-        "target_id": 2,
-        "summary_text": "A large number of rules are needed for coverage of the domain, suggesting that a fairly large number of labeled examples should be required to train a classifier.",
-        "paper_text": "",
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 2,
+        "target_sid": 2,
+        "source_text": "A large number of rules are needed for coverage of the domain, suggesting that a fairly large number of labeled examples should be required to train a classifier.",
         "strategy": "extractive"
     },
     {
-        "source_id": 3,
-        "target_id": 4,
-        "summary_text": "Here we present two algorithms.",
-        "paper_text": "",
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 3,
+        "target_sid": 4,
+        "source_text": "Here we present two algorithms.",
         "strategy": "extractive"
     },
     {
-        "source_id": 4,
-        "target_id": 27,
-        "summary_text": "The first method builds on results from (Yarowsky 95) and (Blum and Mitchell 98).",
-        "paper_text": "",
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 4,
+        "target_sid": 27,
+        "source_text": "The first method builds on results from (Yarowsky 95) and (Blum and Mitchell 98).",
         "strategy": "extractive"
     },
     {
-        "source_id": 5,
-        "target_id": 33,
-        "summary_text": "The second algorithm builds on a boosting algorithm called AdaBoost.",
-        "paper_text": "",
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 5,
+        "target_sid": 33,
+        "source_text": "The second algorithm builds on a boosting algorithm called AdaBoost.",
         "strategy": "extractive"
     },
     {
-        "source_id": 6,
-        "target_id": 34,
-        "summary_text": "The AdaBoost algorithm was developed for supervised learning.",
-        "paper_text": "",
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 6,
+        "target_sid": 34,
+        "source_text": "The AdaBoost algorithm was developed for supervised learning.",
         "strategy": "extractive"
     },
     {
-        "source_id": 7,
-        "target_id": 236,
-        "summary_text": "We chose one of four labels for each example: location, person, organization, or noise where the noise category was used for items that were outside the three categories.",
-        "paper_text": "",
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 7,
+        "target_sid": 236,
+        "source_text": "We chose one of four labels for each example: location, person, organization, or noise where the noise category was used for items that were outside the three categories.",
         "strategy": "extractive"
     },
     {
-        "source_id": 8,
-        "target_id": 255,
-        "summary_text": "The contextual rules are restricted and may not be applicable to every example, but the spelling rules are generally applicable and should have good coverage.",
-        "paper_text": "",
+        "summary_id": "W99-0613_vardha",
+        "paper_id": "W99-0613",
+        "source_sid": 8,
+        "target_sid": 255,
+        "source_text": "The contextual rules are restricted and may not be applicable to every example, but the spelling rules are generally applicable and should have good coverage.",
         "strategy": "extractive"
     }
 ]

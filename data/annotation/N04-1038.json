@@ -1,44 +1,58 @@
 [
     {
-        "source_id": 1,
-        "target_id": 2,
-        "summary_text": "In this paper, Ben and Riloff present a coreference resolver called BABAR that focuses on the use of contextual-role knowledge for coreference resolution.",
-        "paper_text": "",
+        "summary_id": "N04-1038",
+        "paper_id": "N04-1038",
+        "source_sid": 1,
+        "target_sid": 2,
+        "source_text": "In this paper, Ben and Riloff present a coreference resolver called BABAR that focuses on the use of contextual-role knowledge for coreference resolution.",
         "strategy": "abstractive"
     },
     {
-        "source_id": 2,
-        "target_id": 6,
-        "summary_text": "The problem of coreference resolution has received considerable attention, including theoretical discourse models and supervised machine learning systems.",
-        "paper_text": "",
+        "summary_id": "N04-1038",
+        "paper_id": "N04-1038",
+        "source_sid": 2,
+        "target_sid": 6,
+        "source_text": "The problem of coreference resolution has received considerable attention, including theoretical discourse models and supervised machine learning systems.",
         "strategy": "extractive"
     },
     {
-        "source_id": 3,
-        "target_id": 28,
-        "summary_text": "BABAR's performance in both domains of terrorism and natural disaster, and the contextual-role knowledge in pronouns have shown successful results.",
-        "paper_text": "",
+        "summary_id": "N04-1038",
+        "paper_id": "N04-1038",
+        "source_sid": 3,
+        "target_sid": 28,
+        "source_text": "BABAR's performance in both domains of terrorism and natural disaster, and the contextual-role knowledge in pronouns have shown successful results.",
         "strategy": "abstractive"
     },
     {
-        "source_id": 4,
-        "target_id": 129,
-        "summary_text": "However, using the top-level semantic classes of WordNet proved to be problematic as the class distinctions are too coarse.",
-        "paper_text": "",
+        "summary_id": "N04-1038",
+        "paper_id": "N04-1038",
+        "source_sid": 4,
+        "target_sid": 129,
+        "source_text": "However, using the top-level semantic classes of WordNet proved to be problematic as the class distinctions are too coarse.",
         "strategy": "extractive"
     },
     {
-        "source_id": 5,
-        "target_id": [71, 87],
-        "summary_text": "Bean and Riloff also used bootstrapping to extend their semantic compatibility model, proposed using caseframe network for anaphora resolution, information extraction patterns to identify contextual clues for determining compatibility between NPs.",
-        "paper_text": "",
+        "summary_id": "N04-1038",
+        "paper_id": "N04-1038",
+        "source_sid": 5,
+        "target_sid": 71,
+        "source_text": "Bean and Riloff also used bootstrapping to extend their semantic compatibility model, proposed using caseframe network for anaphora resolution, information extraction patterns to identify contextual clues for determining compatibility between NPs.",
         "strategy": "abstractive"
     },
     {
-        "source_id": 6,
-        "target_id": 245,
-        "summary_text": "Finally, several coreference systems have successfully incorporated anaphoricity determination modules.",
-        "paper_text": "",
+        "summary_id": "N04-1038",
+        "paper_id": "N04-1038",
+        "source_sid": 5,
+        "target_sid": 87,
+        "source_text": "Bean and Riloff also used bootstrapping to extend their semantic compatibility model, proposed using caseframe network for anaphora resolution, information extraction patterns to identify contextual clues for determining compatibility between NPs.",
+        "strategy": "abstractive"
+    },
+    {
+        "summary_id": "N04-1038",
+        "paper_id": "N04-1038",
+        "source_sid": 6,
+        "target_sid": 245,
+        "source_text": "Finally, several coreference systems have successfully incorporated anaphoricity determination modules.",
         "strategy": "abstractive"
     }
 ]

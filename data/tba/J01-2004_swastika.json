@@ -1,0 +1,34 @@
+[
+    {
+        "summary_id": "J01-2004_swastika",
+        "paper_id": "J01-2004",
+        "source_sid": 1,
+        "target_sid": null,
+        "source_text": "Roark, in this paper, described the functioning of a broad-coverage probabilistic top-down parser, and its application to the problem of language modeling for speech recognition.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J01-2004_swastika",
+        "paper_id": "J01-2004",
+        "source_sid": 2,
+        "target_sid": null,
+        "source_text": "They varied the base beam factor in trials on the Chelba and Jelinek corpora, keeping the level of conditioning information constant.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J01-2004_swastika",
+        "paper_id": "J01-2004",
+        "source_sid": 3,
+        "target_sid": null,
+        "source_text": "With a simple conditional probability model, and simple statistical search heuristics, they were able to find very accurate parses efficiently, and, assign word probabilities that yielded a perplexity improvement over previous results.",
+        "strategy": null
+    },
+    {
+        "summary_id": "J01-2004_swastika",
+        "paper_id": "J01-2004",
+        "source_sid": 4,
+        "target_sid": null,
+        "source_text": "Interpolation with a trigram model yielded an exceptional improvement relative to the improvement observed by other models, demonstrating the degree to which the information captured by their parsing model was orthogonal to that captured by a trigram model.",
+        "strategy": null
+    }
+]
