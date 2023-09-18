@@ -41,3 +41,5 @@ def preprocess(data):
 # with open(path_plain, "w") as plain:
 #     plain.writelines([s + "\n" for s in sentences])
     
+# Check maximum number of words in examples
+# df["text"].apply(lambda x:len(str(x).split())).max()
