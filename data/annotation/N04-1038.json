@@ -3,7 +3,7 @@
         "summary_id": "N04-1038",
         "paper_id": "N04-1038",
         "source_sid": 1,
-        "target_sid": 2,
+        "target_sid": 1,
         "source_text": "In this paper, Ben and Riloff present a coreference resolver called BABAR that focuses on the use of contextual-role knowledge for coreference resolution.",
         "strategy": "abstractive"
     },

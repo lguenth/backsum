@@ -43,3 +43,16 @@ def preprocess(data):
     
 # Check maximum number of words in examples
 # df["text"].apply(lambda x:len(str(x).split())).max()
+
+
+
+# title, sentences, sids = parse_xml(path)
+# "paper_text": sentences,
+# "paper_sids": sids,
+
+# annotations_df["target_text"] = annotations_df.apply(lambda row: dict(zip(row["paper_sids"], row["paper_text"])).get(row["target_sid"]), axis=1)
+
+cos_scores = util.cos_sim(source_embedding, corpus_embeddings)[0]
+top_results = torch.topk(cos_scores, k=min(5, len(corpus)))
+for i, (score, idx) in enumerate(zip(top_results[0], top_results[1]), 1):
+    print(f"{i}.", corpus[idx], f"\tScore: {score:.4f}")
